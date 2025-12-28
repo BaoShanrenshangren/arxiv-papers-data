@@ -1,0 +1,31 @@
+{
+  "id": "2512.17984v1",
+  "title": "A Hybrid Inductive-Transductive Network for Traffic Flow Imputation on Unsampled Locations",
+  "authors": [
+    "Mohammadmahdi Rahimiasl, Ynte Vanderhoydonc, Siegfried Mercelis"
+  ],
+  "abstract": "arXiv:2512.17984v1 Announce Type: cross \nAbstract: Accurately imputing traffic flow at unsensed locations is difficult: loop detectors provide precise but sparse measurements, speed from probe vehicles is widely available yet only weakly correlated with flow, and nearby links often exhibit strong heterophily in the scale of traffic flow (e.g., ramps vs. mainline), which breaks standard GNN assumptions. We propose HINT, a Hybrid INductive-Transductive Network, and an INDU-TRANSDUCTIVE training strategy that treats speed as a transductive, network-wide signal while learning flow inductively to generalize to unseen locations. HINT couples (i) an inductive spatial transformer that learns similarity-driven, long-range interactions from node features with (ii) a diffusion GCN conditioned by FiLM on rich static context (OSM-derived attributes and traffic simulation), and (iii) a node-wise calibration layer that corrects scale biases per segment. Training uses masked reconstruction with epoch-wise node sampling, hard-node mining to emphasize difficult sensors, and noise injection on visible flows to prevent identity mapping, while graph structure is built from driving distances.\n  Across three real-world datasets, MOW (Antwerp, Belgium), UTD19-Torino, and UTD19-Essen, HINT consistently surpasses state-of-the-art inductive baselines. Relative to KITS, HINT reduces MAE on MOW by $\\approx42$% with basic simulation and $\\approx50$% with calibrated simulation; on Torino by $\\approx22$%, and on Essen by $\\approx12$%. Even without simulation, HINT remains superior on MOW and Torino, while simulation is crucial on Essen. These results show that combining inductive flow imputation with transductive speed, traffic simulations and external geospatial improves accuracy for the task described above.",
+  "url": "https://arxiv.org/abs/2512.17984",
+  "html_url": "https://arxiv.org/html/2512.17984v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.17984v1 Announce Type: cross \nAbstract: Accurately imputing traffic flow at unsensed locations is difficult: loop detectors provide precise but sparse measurements, speed from probe vehicles is widely available yet only weakly correlated with flow, and nearby links often exhibit strong heterophily in the scale of traffic flow (e.g., ramps vs. mainline), which breaks standard GNN assumptions. We propose HINT, a Hybrid INductive-Transductive Network, and an INDU-TRANSDUCTIVE training strategy that treats speed as a transductive, network-wide signal while learning flow inductively to generalize to unseen locations. HINT couples (i) an inductive spatial transformer that learns similarity-driven, long-range interactions from node features with (ii) a diffusion GCN conditioned by FiLM on rich static context (OSM-derived attributes and traffic simulation), and (iii) a node-wise calibration layer that corrects scale biases per segment. Training uses masked reconstruction with epoch-wise node sampling, hard-node mining to emphasize difficult sensors, and noise injection on visible flows to prevent identity mapping, while graph structure is built from driving distances.\n  Across three real-world datasets, MOW (Antwerp, Belgium), UTD19-Torino, and UTD19-Essen, HINT consistently surpasses state-of-the-art inductive baselines. Relative to KITS, HINT reduces MAE on MOW by $\\approx42$% with basic simulation and $\\approx50$% with calibrated simulation; on Torino by $\\approx22$%, and on Essen by $\\approx12$%. Even without simulation, HINT remains superior on MOW and Torino, while simulation is crucial on Essen. These results show that combining inductive flow imputation with transductive speed, traffic simulations and external geospatial improves accuracy for the task described above.",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "traffic flow imputation",
+    "unsampled locations",
+    "inductive-transductive network",
+    "GNN",
+    "diffusion GCN",
+    "spatial transformer",
+    "masked reconstruction"
+  ],
+  "one_line_summary": "该论文提出了一种混合归纳-转导网络HINT，用于在未采样位置准确估算交通流量，结合了空间变换器、扩散图卷积和节点校准层，并在真实数据集上优于现有方法。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:57.674342",
+  "updated_at": "2025-12-23T15:47:57.674358"
+}

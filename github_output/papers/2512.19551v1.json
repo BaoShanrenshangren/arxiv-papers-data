@@ -1,0 +1,26 @@
+{
+  "id": "2512.19551v1",
+  "title": "Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios",
+  "authors": [
+    "Jiawen Wang, Jingjing Wang Tianyang Chen, Min Zhang, Guodong Zhou"
+  ],
+  "abstract": "arXiv:2512.19551v1 Announce Type: new \nAbstract: In the literature, existing human-centric emotional motion generation methods primarily focus on boosting performance within a single scale-fixed dataset, largely neglecting the flexible and scale-increasing motion scenarios (e.g., sports, dance), whereas effectively learning these newly emerging scenarios can significantly enhance the model's real-world generalization ability. Inspired by this, this paper proposes a new LLM-Centric Lifelong Empathic Motion Generation (L^2-EMG) task, which aims to equip LLMs with the capability to continually acquire emotional motion generation knowledge across different unseen scenarios, potentially contributing to building a closed-loop and self-evolving embodied agent equipped with both empathy and intelligence. Further, this paper poses two key challenges in the L^2-EMG task, i.e., the emotion decoupling challenge and the scenario adapting challenge. To this end, this paper proposes an Emotion-Transferable and Scenario-Adapted Mixture of Experts (ES-MoE) approach which designs a causal-guided emotion decoupling block and a scenario-adapted expert constructing block to address the two challenges, respectively. Especially, this paper constructs multiple L^2-EMG datasets to validate the effectiveness of the ES-MoE approach. Extensive evaluations show that ES-MoE outperforms advanced baselines.",
+  "url": "https://arxiv.org/abs/2512.19551",
+  "html_url": "https://arxiv.org/html/2512.19551v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.19551v1 Announce Type: new \nAbstract: In the literature, existing human-centric emotional motion generation methods primarily focus on boosting performance within a single scale-fixed dataset, largely neglecting the flexible and scale-increasing motion scenarios (e.g., sports, dance), whereas effectively learning these newly emerging scenarios can significantly enhance the model's real-world generalization ability. Inspired by this, this paper proposes a new LLM-Centric Lifelong Empathic Motion Generation (L^2-EMG) task, which aims to equip LLMs with the capability to continually acquire emotional motion generation knowledge across different unseen scenarios, potentially contributing to building a closed-loop and self-evolving embodied agent equipped with both empathy and intelligence. Further, this paper poses two key challenges in the L^2-EMG task, i.e., the emotion decoupling challenge and the scenario adapting challenge. To this end, this paper proposes an Emotion-Transferable and Scenario-Adapted Mixture of Experts (ES-MoE) approach which designs a causal-guided emotion decoupling block and a scenario-adapted expert constructing block to address the two challenges, respectively. Especially, this paper constructs multiple L^2-EMG datasets to validate the effectiveness of the ES-MoE approach. Extensive evaluations show that ES-MoE outperforms advanced baselines.",
+  "is_relevant": true,
+  "relevance_score": 4.0,
+  "extracted_keywords": [
+    "efficient LLM",
+    "multimodal generation"
+  ],
+  "one_line_summary": "该论文提出一种基于LLM的终身情感运动生成任务，通过专家混合方法解决情感解耦和场景适应挑战，以增强模型在未见场景中的泛化能力。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:47.278266",
+  "updated_at": "2025-12-23T15:47:47.278278"
+}

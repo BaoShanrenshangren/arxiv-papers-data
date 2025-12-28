@@ -1,0 +1,26 @@
+{
+  "id": "2512.18571v1",
+  "title": "ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning",
+  "authors": [
+    "Weijie Zhou, Xuangtang Xiong, Ye Tian, Lijun Yue, Xinyu Wu, Wei Li, Chaoyang Zhao, Honghui Dong, Ming Tang, Jinqiao Wang, Zhengyou Zhang"
+  ],
+  "abstract": "arXiv:2512.18571v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) have empowered embodied agents with remarkable capabilities in planning and reasoning. However, when facing ambiguous natural language instructions (e.g., \"fetch the tool\" in a cluttered room), current agents often fail to balance the high cost of physical exploration against the cognitive cost of human interaction. They typically treat disambiguation as a passive perception problem, lacking the strategic reasoning to minimize total task execution costs. To bridge this gap, we propose ESearch-R1, a cost-aware embodied reasoning framework that unifies interactive dialogue (Ask), episodic memory retrieval (GetMemory), and physical navigation (Navigate) into a single decision process. We introduce HC-GRPO (Heterogeneous Cost-Aware Group Relative Policy Optimization). Unlike traditional PPO which relies on a separate value critic, HC-GRPO optimizes the MLLM by sampling groups of reasoning trajectories and reinforcing those that achieve the optimal trade-off between information gain and heterogeneous costs (e.g., navigate time, and human attention). Extensive experiments in AI2-THOR demonstrate that ESearch-R1 significantly outperforms standard ReAct-based agents. It improves task success rates while reducing total operational costs by approximately 50\\%, validating the effectiveness of GRPO in aligning MLLM agents with physical world constraints.",
+  "url": "https://arxiv.org/abs/2512.18571",
+  "html_url": "https://arxiv.org/html/2512.18571v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.18571v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) have empowered embodied agents with remarkable capabilities in planning and reasoning. However, when facing ambiguous natural language instructions (e.g., \"fetch the tool\" in a cluttered room), current agents often fail to balance the high cost of physical exploration against the cognitive cost of human interaction. They typically treat disambiguation as a passive perception problem, lacking the strategic reasoning to minimize total task execution costs. To bridge this gap, we propose ESearch-R1, a cost-aware embodied reasoning framework that unifies interactive dialogue (Ask), episodic memory retrieval (GetMemory), and physical navigation (Navigate) into a single decision process. We introduce HC-GRPO (Heterogeneous Cost-Aware Group Relative Policy Optimization). Unlike traditional PPO which relies on a separate value critic, HC-GRPO optimizes the MLLM by sampling groups of reasoning trajectories and reinforcing those that achieve the optimal trade-off between information gain and heterogeneous costs (e.g., navigate time, and human attention). Extensive experiments in AI2-THOR demonstrate that ESearch-R1 significantly outperforms standard ReAct-based agents. It improves task success rates while reducing total operational costs by approximately 50\\%, validating the effectiveness of GRPO in aligning MLLM agents with physical world constraints.",
+  "is_relevant": false,
+  "relevance_score": 2.0,
+  "extracted_keywords": [
+    "multimodal generation",
+    "unified generation understanding"
+  ],
+  "one_line_summary": "该论文提出了一种基于强化学习的成本感知多模态大语言模型代理框架，用于交互式具身搜索任务，与视频扩散、高效模型等关键词相关性较低。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:44:34.356377",
+  "updated_at": "2025-12-23T15:44:34.356388"
+}

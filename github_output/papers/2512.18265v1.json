@@ -1,0 +1,31 @@
+{
+  "id": "2512.18265v1",
+  "title": "Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration",
+  "authors": [
+    "Himabindu Thogaru, Saisubramaniam Gopalakrishnan, Zishan Ahmad, Anirudh Deodhar"
+  ],
+  "abstract": "arXiv:2512.18265v1 Announce Type: new \nAbstract: Manufacturing planners face complex operational challenges that require seamless collaboration between human expertise and intelligent systems to achieve optimal performance in modern production environments. Traditional approaches to analyzing simulation-based manufacturing data often create barriers between human decision-makers and critical operational insights, limiting effective partnership in manufacturing planning. Our framework establishes a collaborative intelligence system integrating Knowledge Graphs and Large Language Model-based agents to bridge this gap, empowering manufacturing professionals through natural language interfaces for complex operational analysis. The system transforms simulation data into semantically rich representations, enabling planners to interact naturally with operational insights without specialized expertise. A collaborative LLM agent works alongside human decision-makers, employing iterative reasoning that mirrors human analytical thinking while generating precise queries for knowledge extraction and providing transparent validation. This partnership approach to manufacturing bottleneck identification, validated through operational scenarios, demonstrates enhanced performance while maintaining human oversight and decision authority. For operational inquiries, the system achieves near-perfect accuracy through natural language interaction. For investigative scenarios requiring collaborative analysis, we demonstrate the framework's effectiveness in supporting human experts to uncover interconnected operational issues that enhance understanding and decision-making. This work advances collaborative manufacturing by creating intuitive methods for actionable insights, reducing cognitive load while amplifying human analytical capabilities in evolving manufacturing ecosystems.",
+  "url": "https://arxiv.org/abs/2512.18265",
+  "html_url": "https://arxiv.org/html/2512.18265v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.18265v1 Announce Type: new \nAbstract: Manufacturing planners face complex operational challenges that require seamless collaboration between human expertise and intelligent systems to achieve optimal performance in modern production environments. Traditional approaches to analyzing simulation-based manufacturing data often create barriers between human decision-makers and critical operational insights, limiting effective partnership in manufacturing planning. Our framework establishes a collaborative intelligence system integrating Knowledge Graphs and Large Language Model-based agents to bridge this gap, empowering manufacturing professionals through natural language interfaces for complex operational analysis. The system transforms simulation data into semantically rich representations, enabling planners to interact naturally with operational insights without specialized expertise. A collaborative LLM agent works alongside human decision-makers, employing iterative reasoning that mirrors human analytical thinking while generating precise queries for knowledge extraction and providing transparent validation. This partnership approach to manufacturing bottleneck identification, validated through operational scenarios, demonstrates enhanced performance while maintaining human oversight and decision authority. For operational inquiries, the system achieves near-perfect accuracy through natural language interaction. For investigative scenarios requiring collaborative analysis, we demonstrate the framework's effectiveness in supporting human experts to uncover interconnected operational issues that enhance understanding and decision-making. This work advances collaborative manufacturing by creating intuitive methods for actionable insights, reducing cognitive load while amplifying human analytical capabilities in evolving manufacturing ecosystems.",
+  "is_relevant": false,
+  "relevance_score": 1.0,
+  "extracted_keywords": [
+    "knowledge graphs",
+    "large language models",
+    "collaborative intelligence",
+    "manufacturing planning",
+    "simulation data",
+    "natural language interface",
+    "human-machine partnership"
+  ],
+  "one_line_summary": "该论文提出了一种结合知识图谱和大型语言模型的协作智能系统，用于增强制造业仓库规划，通过自然语言交互提升人类决策能力。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:44:31.446751",
+  "updated_at": "2025-12-23T15:44:31.446766"
+}

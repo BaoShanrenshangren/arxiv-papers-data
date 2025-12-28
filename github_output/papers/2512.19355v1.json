@@ -1,0 +1,30 @@
+{
+  "id": "2512.19355v1",
+  "title": "First-Order Representation Languages for Goal-Conditioned RL",
+  "authors": [
+    "Simon St{\\aa}hlberg, Hector Geffner"
+  ],
+  "abstract": "arXiv:2512.19355v1 Announce Type: new \nAbstract: First-order relational languages have been used in MDP planning and reinforcement learning (RL) for two main purposes: specifying MDPs in compact form, and representing and learning policies that are general and not tied to specific instances or state spaces. In this work, we instead consider the use of first-order languages in goal-conditioned RL and generalized planning. The question is how to learn goal-conditioned and general policies when the training instances are large and the goal cannot be reached by random exploration alone. The technique of Hindsight Experience Replay (HER) provides an answer to this question: it relabels unsuccessful trajectories as successful ones by replacing the original goal with one that was actually achieved. If the target policy must generalize across states and goals, trajectories that do not reach the original goal states can enable more data- and time-efficient learning. In this work, we show that further performance gains can be achieved when states and goals are represented by sets of atoms. We consider three versions: goals as full states, goals as subsets of the original goals, and goals as lifted versions of these subgoals. The result is that the latter two successfully learn general policies on large planning instances with sparse rewards by automatically creating a curriculum of easier goals of increasing complexity. The experiments illustrate the computational gains of these versions, their limitations, and opportunities for addressing them.",
+  "url": "https://arxiv.org/abs/2512.19355",
+  "html_url": "https://arxiv.org/html/2512.19355v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.19355v1 Announce Type: new \nAbstract: First-order relational languages have been used in MDP planning and reinforcement learning (RL) for two main purposes: specifying MDPs in compact form, and representing and learning policies that are general and not tied to specific instances or state spaces. In this work, we instead consider the use of first-order languages in goal-conditioned RL and generalized planning. The question is how to learn goal-conditioned and general policies when the training instances are large and the goal cannot be reached by random exploration alone. The technique of Hindsight Experience Replay (HER) provides an answer to this question: it relabels unsuccessful trajectories as successful ones by replacing the original goal with one that was actually achieved. If the target policy must generalize across states and goals, trajectories that do not reach the original goal states can enable more data- and time-efficient learning. In this work, we show that further performance gains can be achieved when states and goals are represented by sets of atoms. We consider three versions: goals as full states, goals as subsets of the original goals, and goals as lifted versions of these subgoals. The result is that the latter two successfully learn general policies on large planning instances with sparse rewards by automatically creating a curriculum of easier goals of increasing complexity. The experiments illustrate the computational gains of these versions, their limitations, and opportunities for addressing them.",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "first-order relational languages",
+    "goal-conditioned RL",
+    "generalized planning",
+    "Hindsight Experience Replay",
+    "sparse rewards",
+    "curriculum learning"
+  ],
+  "one_line_summary": "该论文探讨了在目标条件强化学习中，使用一阶关系语言表示状态和目标，通过后见经验重放和自动课程学习来提高策略泛化能力和学习效率。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:45.535812",
+  "updated_at": "2025-12-23T15:47:45.535827"
+}

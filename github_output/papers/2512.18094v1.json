@@ -1,0 +1,29 @@
+{
+  "id": "2512.18094v1",
+  "title": "Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks",
+  "authors": [
+    "Boxuan Wang, Zhuoyun Li, Xiaowei Huang, Yi Dong"
+  ],
+  "abstract": "arXiv:2512.18094v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled multi-agent systems (MAS) in which multiple agents argue, critique, and coordinate to solve complex tasks, making communication topology a first-class design choice. Yet most existing LLM-based MAS either adopt fully connected graphs, simple sparse rings, or ad-hoc dynamic selection, with little structural guidance. In this work, we revisit classic theory on small-world (SW) networks and ask: what changes if we treat SW connectivity as a design prior for MAS? We first bridge insights from neuroscience and complex networks to MAS, highlighting how SW structures balance local clustering and long-range integration. Using multi-agent debate (MAD) as a controlled testbed, experiment results show that SW connectivity yields nearly the same accuracy and token cost, while substantially stabilizing consensus trajectories. Building on this, we introduce an uncertainty-guided rewiring scheme for scaling MAS, where long-range shortcuts are added between epistemically divergent agents using LLM-oriented uncertainty signals (e.g., semantic entropy). This yields controllable SW structures that adapt to task difficulty and agent heterogeneity. Finally, we discuss broader implications of SW priors for MAS design, framing them as stabilizers of reasoning, enhancers of robustness, scalable coordinators, and inductive biases for emergent cognitive roles.",
+  "url": "https://arxiv.org/abs/2512.18094",
+  "html_url": "https://arxiv.org/html/2512.18094v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.18094v1 Announce Type: new \nAbstract: Large language models (LLMs) have enabled multi-agent systems (MAS) in which multiple agents argue, critique, and coordinate to solve complex tasks, making communication topology a first-class design choice. Yet most existing LLM-based MAS either adopt fully connected graphs, simple sparse rings, or ad-hoc dynamic selection, with little structural guidance. In this work, we revisit classic theory on small-world (SW) networks and ask: what changes if we treat SW connectivity as a design prior for MAS? We first bridge insights from neuroscience and complex networks to MAS, highlighting how SW structures balance local clustering and long-range integration. Using multi-agent debate (MAD) as a controlled testbed, experiment results show that SW connectivity yields nearly the same accuracy and token cost, while substantially stabilizing consensus trajectories. Building on this, we introduce an uncertainty-guided rewiring scheme for scaling MAS, where long-range shortcuts are added between epistemically divergent agents using LLM-oriented uncertainty signals (e.g., semantic entropy). This yields controllable SW structures that adapt to task difficulty and agent heterogeneity. Finally, we discuss broader implications of SW priors for MAS design, framing them as stabilizers of reasoning, enhancers of robustness, scalable coordinators, and inductive biases for emergent cognitive roles.",
+  "is_relevant": false,
+  "relevance_score": 2.0,
+  "extracted_keywords": [
+    "multi-agent systems",
+    "small-world networks",
+    "LLM-based MAS",
+    "communication topology",
+    "uncertainty-guided rewiring"
+  ],
+  "one_line_summary": "该论文探讨了基于小世界网络理论优化多智能体系统的通信拓扑结构，以提高稳定性和可扩展性，与视频扩散、多模态生成等关键词关联度低。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:44:27.987968",
+  "updated_at": "2025-12-23T15:44:27.987984"
+}

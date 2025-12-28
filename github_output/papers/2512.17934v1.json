@@ -1,0 +1,30 @@
+{
+  "id": "2512.17934v1",
+  "title": "Comparative Evaluation of Explainable Machine Learning Versus Linear Regression for Predicting County-Level Lung Cancer Mortality Rate in the United States",
+  "authors": [
+    "Soheil Hashtarkhani, Brianna M. White, Benyamin Hoseini, David L. Schwartz, Arash Shaban-Nejad"
+  ],
+  "abstract": "arXiv:2512.17934v1 Announce Type: cross \nAbstract: Lung cancer (LC) is a leading cause of cancer-related mortality in the United States. Accurate prediction of LC mortality rates is crucial for guiding targeted interventions and addressing health disparities. Although traditional regression-based models have been commonly used, explainable machine learning models may offer enhanced predictive accuracy and deeper insights into the factors influencing LC mortality. This study applied three models: random forest (RF), gradient boosting regression (GBR), and linear regression (LR) to predict county-level LC mortality rates across the United States. Model performance was evaluated using R-squared and root mean squared error (RMSE). Shapley Additive Explanations (SHAP) values were used to determine variable importance and their directional impact. Geographic disparities in LC mortality were analyzed through Getis-Ord (Gi*) hotspot analysis. The RF model outperformed both GBR and LR, achieving an R2 value of 41.9% and an RMSE of 12.8. SHAP analysis identified smoking rate as the most important predictor, followed by median home value and the percentage of the Hispanic ethnic population. Spatial analysis revealed significant clusters of elevated LC mortality in the mid-eastern counties of the United States. The RF model demonstrated superior predictive performance for LC mortality rates, emphasizing the critical roles of smoking prevalence, housing values, and the percentage of Hispanic ethnic population. These findings offer valuable actionable insights for designing targeted interventions, promoting screening, and addressing health disparities in regions most affected by LC in the United States.",
+  "url": "https://arxiv.org/abs/2512.17934",
+  "html_url": "https://arxiv.org/html/2512.17934v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.17934v1 Announce Type: cross \nAbstract: Lung cancer (LC) is a leading cause of cancer-related mortality in the United States. Accurate prediction of LC mortality rates is crucial for guiding targeted interventions and addressing health disparities. Although traditional regression-based models have been commonly used, explainable machine learning models may offer enhanced predictive accuracy and deeper insights into the factors influencing LC mortality. This study applied three models: random forest (RF), gradient boosting regression (GBR), and linear regression (LR) to predict county-level LC mortality rates across the United States. Model performance was evaluated using R-squared and root mean squared error (RMSE). Shapley Additive Explanations (SHAP) values were used to determine variable importance and their directional impact. Geographic disparities in LC mortality were analyzed through Getis-Ord (Gi*) hotspot analysis. The RF model outperformed both GBR and LR, achieving an R2 value of 41.9% and an RMSE of 12.8. SHAP analysis identified smoking rate as the most important predictor, followed by median home value and the percentage of the Hispanic ethnic population. Spatial analysis revealed significant clusters of elevated LC mortality in the mid-eastern counties of the United States. The RF model demonstrated superior predictive performance for LC mortality rates, emphasizing the critical roles of smoking prevalence, housing values, and the percentage of Hispanic ethnic population. These findings offer valuable actionable insights for designing targeted interventions, promoting screening, and addressing health disparities in regions most affected by LC in the United States.",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "random forest",
+    "gradient boosting regression",
+    "linear regression",
+    "lung cancer mortality",
+    "SHAP",
+    "spatial analysis"
+  ],
+  "one_line_summary": "该论文使用随机森林、梯度提升回归和线性回归模型预测美国县级肺癌死亡率，并分析影响因素和地理差异。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:52.053294",
+  "updated_at": "2025-12-23T15:47:52.053312"
+}

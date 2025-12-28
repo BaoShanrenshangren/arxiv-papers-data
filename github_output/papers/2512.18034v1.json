@@ -1,0 +1,30 @@
+{
+  "id": "2512.18034v1",
+  "title": "Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility Layout",
+  "authors": [
+    "Joshua Gibson, Kapil Dhakal"
+  ],
+  "abstract": "arXiv:2512.18034v1 Announce Type: new \nAbstract: This paper studies the use of Conflict-Driven Clause Learning (CDCL) with VSIDS heuristics as a computational engine for discrete facility layout problems. The facility layout problem is modeled as a combinatorial assignment problem with dense logical structure arising from adjacency, separation, and slot-availability constraints. We develop a CNF-based formulation for layout feasibility and compare CDCL-based SAT solving against CP-SAT and MILP formulations under a unified benchmarking framework. Empirical results show that CDCL exhibits near-constant runtime behavior for feasibility detection across increasing problem sizes and constraint densities, while CP-SAT and MILP display polynomial and exponential scaling respectively. To address the limitation of CDCL in objective optimization, we introduce two hybrid architectures that combine CDCL-based feasibility search with CP-SAT optimization. The first architecture rapidly enumerates feasible layouts to trade optimality for speed, while the second uses CDCL to generate warm-start solutions that accelerate exact optimization. The results demonstrate that hybrid approaches can significantly reduce time-to-solution while preserving correctness guarantees, clarifying the algorithmic trade-offs between clause-learning search and exact optimization methods in large-scale discrete layout problems.",
+  "url": "https://arxiv.org/abs/2512.18034",
+  "html_url": "https://arxiv.org/html/2512.18034v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.18034v1 Announce Type: new \nAbstract: This paper studies the use of Conflict-Driven Clause Learning (CDCL) with VSIDS heuristics as a computational engine for discrete facility layout problems. The facility layout problem is modeled as a combinatorial assignment problem with dense logical structure arising from adjacency, separation, and slot-availability constraints. We develop a CNF-based formulation for layout feasibility and compare CDCL-based SAT solving against CP-SAT and MILP formulations under a unified benchmarking framework. Empirical results show that CDCL exhibits near-constant runtime behavior for feasibility detection across increasing problem sizes and constraint densities, while CP-SAT and MILP display polynomial and exponential scaling respectively. To address the limitation of CDCL in objective optimization, we introduce two hybrid architectures that combine CDCL-based feasibility search with CP-SAT optimization. The first architecture rapidly enumerates feasible layouts to trade optimality for speed, while the second uses CDCL to generate warm-start solutions that accelerate exact optimization. The results demonstrate that hybrid approaches can significantly reduce time-to-solution while preserving correctness guarantees, clarifying the algorithmic trade-offs between clause-learning search and exact optimization methods in large-scale discrete layout problems.",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "Conflict-Driven Clause Learning",
+    "VSIDS heuristics",
+    "discrete facility layout",
+    "SAT solving",
+    "combinatorial optimization",
+    "hybrid architectures"
+  ],
+  "one_line_summary": "该论文研究基于冲突驱动子句学习和VSIDS启发式的SAT求解方法，用于解决离散设施布局问题，并比较了与CP-SAT和MILP的性能。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:44:27.209729",
+  "updated_at": "2025-12-23T15:44:27.209743"
+}

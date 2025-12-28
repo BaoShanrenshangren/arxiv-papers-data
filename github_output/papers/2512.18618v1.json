@@ -1,0 +1,32 @@
+{
+  "id": "2512.18618v1",
+  "title": "Assignment-Routing Optimization: Solvers for Problems Under Constraints",
+  "authors": [
+    "Yuan Qilong, Michal Pavelka"
+  ],
+  "abstract": "arXiv:2512.18618v1 Announce Type: new \nAbstract: We study the Joint Routing-Assignment (JRA) problem in which items must be assigned one-to-one to placeholders while simultaneously determining a Hamiltonian cycle visiting all nodes exactly once. Extending previous exact MIP solvers with Gurobi and cutting-plane subtour elimination, we develop a solver tailored for practical packaging-planning scenarios with richer constraints.These include multiple placeholder options, time-frame restrictions, and multi-class item packaging. Experiments on 46 mobile manipulation datasets demonstrate that the proposed MIP approach achieves global optima with stable and low computation times, significantly outperforming the shaking-based exact solver by up to an orders of magnitude. Compared to greedy baselines, the MIP solutions achieve consistent optimal distances with an average deviation of 14% for simple heuristics, confirming both efficiency and solution quality. The results highlight the practical applicability of MIP-based JRA optimization for robotic packaging, motion planning, and complex logistics .",
+  "url": "https://arxiv.org/abs/2512.18618",
+  "html_url": "https://arxiv.org/html/2512.18618v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.18618v1 Announce Type: new \nAbstract: We study the Joint Routing-Assignment (JRA) problem in which items must be assigned one-to-one to placeholders while simultaneously determining a Hamiltonian cycle visiting all nodes exactly once. Extending previous exact MIP solvers with Gurobi and cutting-plane subtour elimination, we develop a solver tailored for practical packaging-planning scenarios with richer constraints.These include multiple placeholder options, time-frame restrictions, and multi-class item packaging. Experiments on 46 mobile manipulation datasets demonstrate that the proposed MIP approach achieves global optima with stable and low computation times, significantly outperforming the shaking-based exact solver by up to an orders of magnitude. Compared to greedy baselines, the MIP solutions achieve consistent optimal distances with an average deviation of 14% for simple heuristics, confirming both efficiency and solution quality. The results highlight the practical applicability of MIP-based JRA optimization for robotic packaging, motion planning, and complex logistics .",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "Joint Routing-Assignment",
+    "MIP solver",
+    "Gurobi",
+    "cutting-plane subtour elimination",
+    "Hamiltonian cycle",
+    "robotic packaging",
+    "motion planning",
+    "logistics"
+  ],
+  "one_line_summary": "该论文研究联合路由分配问题的混合整数规划求解器，应用于机器人包装和物流优化，与视频扩散或多模态生成等技术无关。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:44:35.138251",
+  "updated_at": "2025-12-23T15:44:35.138260"
+}

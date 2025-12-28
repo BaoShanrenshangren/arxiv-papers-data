@@ -1,0 +1,30 @@
+{
+  "id": "2512.17979v1",
+  "title": "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis",
+  "authors": [
+    "Matthieu Mastio, Paul Saves, Benoit Gaudou, Nicolas Verstaevel"
+  ],
+  "abstract": "arXiv:2512.17979v1 Announce Type: cross \nAbstract: Industrial symbiosis fosters circularity by enabling firms to repurpose residual resources, yet its emergence is constrained by socio-spatial frictions that shape costs, matching opportunities, and market efficiency. Existing models often overlook the interaction between spatial structure, market design, and adaptive firm behavior, limiting our understanding of where and how symbiosis arises. We develop an agent-based model where heterogeneous firms trade byproducts through a spatially embedded double-auction market, with prices and quantities emerging endogenously from local interactions. Leveraging reinforcement learning, firms adapt their bidding strategies to maximize profit while accounting for transport costs, disposal penalties, and resource scarcity. Simulation experiments reveal the economic and spatial conditions under which decentralized exchanges converge toward stable and efficient outcomes. Counterfactual regret analysis shows that sellers' strategies approach a near Nash equilibrium, while sensitivity analysis highlights how spatial structures and market parameters jointly govern circularity. Our model provides a basis for exploring policy interventions that seek to align firm incentives with sustainability goals, and more broadly demonstrates how decentralized coordination can emerge from adaptive agents in spatially constrained markets.",
+  "url": "https://arxiv.org/abs/2512.17979",
+  "html_url": "https://arxiv.org/html/2512.17979v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.17979v1 Announce Type: cross \nAbstract: Industrial symbiosis fosters circularity by enabling firms to repurpose residual resources, yet its emergence is constrained by socio-spatial frictions that shape costs, matching opportunities, and market efficiency. Existing models often overlook the interaction between spatial structure, market design, and adaptive firm behavior, limiting our understanding of where and how symbiosis arises. We develop an agent-based model where heterogeneous firms trade byproducts through a spatially embedded double-auction market, with prices and quantities emerging endogenously from local interactions. Leveraging reinforcement learning, firms adapt their bidding strategies to maximize profit while accounting for transport costs, disposal penalties, and resource scarcity. Simulation experiments reveal the economic and spatial conditions under which decentralized exchanges converge toward stable and efficient outcomes. Counterfactual regret analysis shows that sellers' strategies approach a near Nash equilibrium, while sensitivity analysis highlights how spatial structures and market parameters jointly govern circularity. Our model provides a basis for exploring policy interventions that seek to align firm incentives with sustainability goals, and more broadly demonstrates how decentralized coordination can emerge from adaptive agents in spatially constrained markets.",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "agent-based model",
+    "reinforcement learning",
+    "spatial double-auction market",
+    "industrial symbiosis",
+    "circular economy",
+    "decentralized coordination"
+  ],
+  "one_line_summary": "这篇论文通过基于代理的模型和强化学习，研究空间双拍卖市场中工业共生现象的出现，关注经济、空间条件和可持续性政策。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:57.025286",
+  "updated_at": "2025-12-23T15:47:57.025298"
+}

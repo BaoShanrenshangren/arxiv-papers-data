@@ -1,0 +1,34 @@
+{
+  "id": "2512.18057v1",
+  "title": "FOODER: Real-time Facial Authentication and Expression Recognition",
+  "authors": [
+    "Sabri Mustafa Kahya, Muhammet Sami Yavuz, Boran Hamdi Sivrikaya, Eckehard Steinbach"
+  ],
+  "abstract": "arXiv:2512.18057v1 Announce Type: cross \nAbstract: Out-of-distribution (OOD) detection is essential for the safe deployment of neural networks, as it enables the identification of samples outside the training domain. We present FOODER, a real-time, privacy-preserving radar-based framework that integrates OOD-based facial authentication with facial expression recognition. FOODER operates using low-cost frequency-modulated continuous-wave (FMCW) radar and exploits both range-Doppler and micro range-Doppler representations. The authentication module employs a multi-encoder multi-decoder architecture with Body Part (BP) and Intermediate Linear Encoder-Decoder (ILED) components to classify a single enrolled individual as in-distribution while detecting all other faces as OOD. Upon successful authentication, an expression recognition module is activated. Concatenated radar representations are processed by a ResNet block to distinguish between dynamic and static facial expressions. Based on this categorization, two specialized MobileViT networks are used to classify dynamic expressions (smile, shock) and static expressions (neutral, anger). This hierarchical design enables robust facial authentication and fine-grained expression recognition while preserving user privacy by relying exclusively on radar data. Experiments conducted on a dataset collected with a 60 GHz short-range FMCW radar demonstrate that FOODER achieves an AUROC of 94.13% and an FPR95 of 18.12% for authentication, along with an average expression recognition accuracy of 94.70%. FOODER outperforms state-of-the-art OOD detection methods and several transformer-based architectures while operating efficiently in real time.",
+  "url": "https://arxiv.org/abs/2512.18057",
+  "html_url": "https://arxiv.org/html/2512.18057v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.18057v1 Announce Type: cross \nAbstract: Out-of-distribution (OOD) detection is essential for the safe deployment of neural networks, as it enables the identification of samples outside the training domain. We present FOODER, a real-time, privacy-preserving radar-based framework that integrates OOD-based facial authentication with facial expression recognition. FOODER operates using low-cost frequency-modulated continuous-wave (FMCW) radar and exploits both range-Doppler and micro range-Doppler representations. The authentication module employs a multi-encoder multi-decoder architecture with Body Part (BP) and Intermediate Linear Encoder-Decoder (ILED) components to classify a single enrolled individual as in-distribution while detecting all other faces as OOD. Upon successful authentication, an expression recognition module is activated. Concatenated radar representations are processed by a ResNet block to distinguish between dynamic and static facial expressions. Based on this categorization, two specialized MobileViT networks are used to classify dynamic expressions (smile, shock) and static expressions (neutral, anger). This hierarchical design enables robust facial authentication and fine-grained expression recognition while preserving user privacy by relying exclusively on radar data. Experiments conducted on a dataset collected with a 60 GHz short-range FMCW radar demonstrate that FOODER achieves an AUROC of 94.13% and an FPR95 of 18.12% for authentication, along with an average expression recognition accuracy of 94.70%. FOODER outperforms state-of-the-art OOD detection methods and several transformer-based architectures while operating efficiently in real time.",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "OOD detection",
+    "facial authentication",
+    "facial expression recognition",
+    "radar-based",
+    "real-time",
+    "privacy-preserving",
+    "FMCW radar",
+    "multi-encoder multi-decoder",
+    "MobileViT",
+    "ResNet"
+  ],
+  "one_line_summary": "FOODER是一个基于雷达的实时隐私保护框架，结合了OOD检测的面部认证和面部表情识别，不涉及视频扩散或多模态生成。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:59.960369",
+  "updated_at": "2025-12-23T15:47:59.960386"
+}

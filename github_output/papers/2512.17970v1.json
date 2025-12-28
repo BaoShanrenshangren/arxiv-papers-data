@@ -1,0 +1,26 @@
+{
+  "id": "2512.17970v1",
+  "title": "CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs",
+  "authors": [
+    "Gunho Park, Jeongin Bae, Byeongwook Kim, Baeseong park, Jiwon Ryu, Hoseung Kim, Se Jung Kwon, Dongsoo Lee"
+  ],
+  "abstract": "arXiv:2512.17970v1 Announce Type: cross \nAbstract: Weight-only quantization is widely used to mitigate the memory-bound nature of LLM inference. Codebook-based methods extend this trend by achieving strong accuracy in the extremely low-bit regime (e.g., 2-bit). However, current kernels rely on dequantization, which repeatedly fetches centroids and reconstructs weights, incurring substantial latency and cache pressure. We present CodeGEMM, a codebook-centric GEMM kernel that replaces dequantization with precomputed inner products between centroids and activations stored in a lightweight Psumbook. At inference, code indices directly gather these partial sums, eliminating per-element lookups and reducing the on-chip footprint. The kernel supports the systematic exploration of latency-memory-accuracy trade-offs under a unified implementation. On Llama-3 models, CodeGEMM delivers 1.83x (8B) and 8.93x (70B) speedups in the 2-bit configuration compared to state-of-the-art codebook-based quantization at comparable accuracy and further improves computing efficiency and memory subsystem utilization.",
+  "url": "https://arxiv.org/abs/2512.17970",
+  "html_url": "https://arxiv.org/html/2512.17970v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.17970v1 Announce Type: cross \nAbstract: Weight-only quantization is widely used to mitigate the memory-bound nature of LLM inference. Codebook-based methods extend this trend by achieving strong accuracy in the extremely low-bit regime (e.g., 2-bit). However, current kernels rely on dequantization, which repeatedly fetches centroids and reconstructs weights, incurring substantial latency and cache pressure. We present CodeGEMM, a codebook-centric GEMM kernel that replaces dequantization with precomputed inner products between centroids and activations stored in a lightweight Psumbook. At inference, code indices directly gather these partial sums, eliminating per-element lookups and reducing the on-chip footprint. The kernel supports the systematic exploration of latency-memory-accuracy trade-offs under a unified implementation. On Llama-3 models, CodeGEMM delivers 1.83x (8B) and 8.93x (70B) speedups in the 2-bit configuration compared to state-of-the-art codebook-based quantization at comparable accuracy and further improves computing efficiency and memory subsystem utilization.",
+  "is_relevant": false,
+  "relevance_score": 1.0,
+  "extracted_keywords": [
+    "efficient LLM",
+    "efficient diffusion model"
+  ],
+  "one_line_summary": "CodeGEMM 提出了一种基于码本的 GEMM 内核，用于量化 LLM 中的高效矩阵乘法，与视频扩散或多模态生成无关。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:56.356874",
+  "updated_at": "2025-12-23T15:47:56.356886"
+}

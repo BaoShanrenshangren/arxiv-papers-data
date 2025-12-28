@@ -1,0 +1,31 @@
+{
+  "id": "2512.18135v1",
+  "title": "Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications",
+  "authors": [
+    "Cristiano da Costa Cunha, Wei Liu, Tim French, Ajmal Mian"
+  ],
+  "abstract": "arXiv:2512.18135v1 Announce Type: new \nAbstract: Integrating causal inference (CI) with reinforcement learning (RL) has emerged as a powerful paradigm to address critical limitations in classical RL, including low explainability, lack of robustness and generalization failures. Traditional RL techniques, which typically rely on correlation-driven decision-making, struggle when faced with distribution shifts, confounding variables, and dynamic environments. Causal reinforcement learning (CRL), leveraging the foundational principles of causal inference, offers promising solutions to these challenges by explicitly modeling cause-and-effect relationships. In this survey, we systematically review recent advancements at the intersection of causal inference and RL. We categorize existing approaches into causal representation learning, counterfactual policy optimization, offline causal RL, causal transfer learning, and causal explainability. Through this structured analysis, we identify prevailing challenges, highlight empirical successes in practical applications, and discuss open problems. Finally, we provide future research directions, underscoring the potential of CRL for developing robust, generalizable, and interpretable artificial intelligence systems.",
+  "url": "https://arxiv.org/abs/2512.18135",
+  "html_url": "https://arxiv.org/html/2512.18135v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.18135v1 Announce Type: new \nAbstract: Integrating causal inference (CI) with reinforcement learning (RL) has emerged as a powerful paradigm to address critical limitations in classical RL, including low explainability, lack of robustness and generalization failures. Traditional RL techniques, which typically rely on correlation-driven decision-making, struggle when faced with distribution shifts, confounding variables, and dynamic environments. Causal reinforcement learning (CRL), leveraging the foundational principles of causal inference, offers promising solutions to these challenges by explicitly modeling cause-and-effect relationships. In this survey, we systematically review recent advancements at the intersection of causal inference and RL. We categorize existing approaches into causal representation learning, counterfactual policy optimization, offline causal RL, causal transfer learning, and causal explainability. Through this structured analysis, we identify prevailing challenges, highlight empirical successes in practical applications, and discuss open problems. Finally, we provide future research directions, underscoring the potential of CRL for developing robust, generalizable, and interpretable artificial intelligence systems.",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "causal inference",
+    "reinforcement learning",
+    "causal reinforcement learning",
+    "survey",
+    "taxonomy",
+    "algorithms",
+    "applications"
+  ],
+  "one_line_summary": "这篇论文是关于因果推理与强化学习结合的综述，系统分类了因果强化学习的方法、挑战和应用，与视频扩散或多模态生成等关键词无关。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:44:28.713150",
+  "updated_at": "2025-12-23T15:44:28.713160"
+}

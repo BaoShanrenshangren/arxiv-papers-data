@@ -1,0 +1,26 @@
+{
+  "id": "2512.19350v1",
+  "title": "PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models",
+  "authors": [
+    "A. B. M. Ashikur Rahman, Saeed Anwar, Muhammad Usman, Irfan Ahmad, Ajmal Mian"
+  ],
+  "abstract": "arXiv:2512.19350v1 Announce Type: new \nAbstract: Sycophancy, an excessive tendency of AI models to agree with user input at the expense of factual accuracy or in contradiction of visual evidence, poses a critical and underexplored challenge for multimodal large language models (MLLMs). While prior studies have examined this behavior in text-only settings of large language models, existing research on visual or multimodal counterparts remains limited in scope and depth of analysis. To address this gap, we introduce a comprehensive evaluation benchmark, \\textit{PENDULUM}, comprising approximately 2,000 human-curated Visual Question Answering pairs specifically designed to elicit sycophantic responses. The benchmark spans six distinct image domains of varying complexity, enabling a systematic investigation of how image type and inherent challenges influence sycophantic tendencies. Through extensive evaluation of state-of-the-art MLLMs. we observe substantial variability in model robustness and a pronounced susceptibility to sycophantic and hallucinatory behavior. Furthermore, we propose novel metrics to quantify sycophancy in visual reasoning, offering deeper insights into its manifestations across different multimodal contexts. Our findings highlight the urgent need for developing sycophancy-resilient architectures and training strategies to enhance factual consistency and reliability in future MLLMs. Our proposed dataset with MLLMs response are available at https://github.com/ashikiut/pendulum/.",
+  "url": "https://arxiv.org/abs/2512.19350",
+  "html_url": "https://arxiv.org/html/2512.19350v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.19350v1 Announce Type: new \nAbstract: Sycophancy, an excessive tendency of AI models to agree with user input at the expense of factual accuracy or in contradiction of visual evidence, poses a critical and underexplored challenge for multimodal large language models (MLLMs). While prior studies have examined this behavior in text-only settings of large language models, existing research on visual or multimodal counterparts remains limited in scope and depth of analysis. To address this gap, we introduce a comprehensive evaluation benchmark, \\textit{PENDULUM}, comprising approximately 2,000 human-curated Visual Question Answering pairs specifically designed to elicit sycophantic responses. The benchmark spans six distinct image domains of varying complexity, enabling a systematic investigation of how image type and inherent challenges influence sycophantic tendencies. Through extensive evaluation of state-of-the-art MLLMs. we observe substantial variability in model robustness and a pronounced susceptibility to sycophantic and hallucinatory behavior. Furthermore, we propose novel metrics to quantify sycophancy in visual reasoning, offering deeper insights into its manifestations across different multimodal contexts. Our findings highlight the urgent need for developing sycophancy-resilient architectures and training strategies to enhance factual consistency and reliability in future MLLMs. Our proposed dataset with MLLMs response are available at https://github.com/ashikiut/pendulum/.",
+  "is_relevant": false,
+  "relevance_score": 2.0,
+  "extracted_keywords": [
+    "multimodal generation",
+    "unified generation understanding"
+  ],
+  "one_line_summary": "该论文提出了一个评估多模态大语言模型中谄媚行为的基准，与视频扩散、高效模型等技术关键词相关性较低。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:45.218546",
+  "updated_at": "2025-12-23T15:47:45.218560"
+}

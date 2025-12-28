@@ -1,0 +1,31 @@
+{
+  "id": "2512.18412v1",
+  "title": "Few-Shot Learning of a Graph-Based Neural Network Model Without Backpropagation",
+  "authors": [
+    "Mykyta Lapin, Kostiantyn Bokhan, Yurii Parzhyn"
+  ],
+  "abstract": "arXiv:2512.18412v1 Announce Type: new \nAbstract: We propose a structural-graph approach to classifying contour images in a few-shot regime without using backpropagation. The core idea is to make structure the carrier of explanations: an image is encoded as an attributed graph (critical points and lines represented as nodes with geometric attributes), and generalization is achieved via the formation of concept attractors (class-level concept graphs). Purpose. To design and experimentally validate an architecture in which class concepts are formed from a handful of examples (5 - 6 per class) through structural and parametric reductions, providing transparent decisions and eliminating backpropagation. Methods. Contour vectorization is followed by constructing a bipartite graph (Point/Line as nodes) with normalized geometric attributes such as coordinates, length, angle, and direction; reductions include the elimination of unstable substructures or noise and the alignment of paths between critical points. Concepts are formed by iterative composition of samples, and classification is performed by selecting the best graph-to-concept match (using approximated GED). Results. On an MNIST subset with 5 - 6 base examples per class (single epoch), we obtain a consistent accuracy of around 82% with full traceability of decisions: misclassifications can be explained by explicit structural similarities. An indicative comparison with SVM, MLP, CNN, as well as metric and meta-learning baselines, is provided. The structural-graph scheme with concept attractors enables few-shot learning without backpropagation and offers built-in explanations through the explicit graph structure. Limitations concern the computational cost of GED and the quality of skeletonization; promising directions include classification-algorithm optimization, work with static scenes, and associative recognition.",
+  "url": "https://arxiv.org/abs/2512.18412",
+  "html_url": "https://arxiv.org/html/2512.18412v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.18412v1 Announce Type: new \nAbstract: We propose a structural-graph approach to classifying contour images in a few-shot regime without using backpropagation. The core idea is to make structure the carrier of explanations: an image is encoded as an attributed graph (critical points and lines represented as nodes with geometric attributes), and generalization is achieved via the formation of concept attractors (class-level concept graphs). Purpose. To design and experimentally validate an architecture in which class concepts are formed from a handful of examples (5 - 6 per class) through structural and parametric reductions, providing transparent decisions and eliminating backpropagation. Methods. Contour vectorization is followed by constructing a bipartite graph (Point/Line as nodes) with normalized geometric attributes such as coordinates, length, angle, and direction; reductions include the elimination of unstable substructures or noise and the alignment of paths between critical points. Concepts are formed by iterative composition of samples, and classification is performed by selecting the best graph-to-concept match (using approximated GED). Results. On an MNIST subset with 5 - 6 base examples per class (single epoch), we obtain a consistent accuracy of around 82% with full traceability of decisions: misclassifications can be explained by explicit structural similarities. An indicative comparison with SVM, MLP, CNN, as well as metric and meta-learning baselines, is provided. The structural-graph scheme with concept attractors enables few-shot learning without backpropagation and offers built-in explanations through the explicit graph structure. Limitations concern the computational cost of GED and the quality of skeletonization; promising directions include classification-algorithm optimization, work with static scenes, and associative recognition.",
+  "is_relevant": false,
+  "relevance_score": 0.0,
+  "extracted_keywords": [
+    "few-shot learning",
+    "graph-based neural network",
+    "backpropagation-free",
+    "structural-graph approach",
+    "concept attractors",
+    "contour images",
+    "graph matching"
+  ],
+  "one_line_summary": "这篇论文提出了一种基于结构图的少样本学习方法，用于轮廓图像分类，无需反向传播，通过概念吸引子和图匹配实现可解释的决策。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:44:32.130701",
+  "updated_at": "2025-12-23T15:44:32.130713"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "2512.17946v1",
+  "title": "Let the Model Learn to Feel: Mode-Guided Tonality Injection for Symbolic Music Emotion Recognition",
+  "authors": [
+    "Haiying Xia, Zhongyi Huang, Yumei Tan, Shuxiang Song"
+  ],
+  "abstract": "arXiv:2512.17946v1 Announce Type: cross \nAbstract: Music emotion recognition is a key task in symbolic music understanding (SMER). Recent approaches have shown promising results by fine-tuning large-scale pre-trained models (e.g., MIDIBERT, a benchmark in symbolic music understanding) to map musical semantics to emotional labels. While these models effectively capture distributional musical semantics, they often overlook tonal structures, particularly musical modes, which play a critical role in emotional perception according to music psychology. In this paper, we investigate the representational capacity of MIDIBERT and identify its limitations in capturing mode-emotion associations. To address this issue, we propose a Mode-Guided Enhancement (MoGE) strategy that incorporates psychological insights on mode into the model. Specifically, we first conduct a mode augmentation analysis, which reveals that MIDIBERT fails to effectively encode emotion-mode correlations. We then identify the least emotion-relevant layer within MIDIBERT and introduce a Mode-guided Feature-wise linear modulation injection (MoFi) framework to inject explicit mode features, thereby enhancing the model's capability in emotional representation and inference. Extensive experiments on the EMOPIA and VGMIDI datasets demonstrate that our mode injection strategy significantly improves SMER performance, achieving accuracies of 75.2% and 59.1%, respectively. These results validate the effectiveness of mode-guided modeling in symbolic music emotion recognition.",
+  "url": "https://arxiv.org/abs/2512.17946",
+  "html_url": "https://arxiv.org/html/2512.17946v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.17946v1 Announce Type: cross \nAbstract: Music emotion recognition is a key task in symbolic music understanding (SMER). Recent approaches have shown promising results by fine-tuning large-scale pre-trained models (e.g., MIDIBERT, a benchmark in symbolic music understanding) to map musical semantics to emotional labels. While these models effectively capture distributional musical semantics, they often overlook tonal structures, particularly musical modes, which play a critical role in emotional perception according to music psychology. In this paper, we investigate the representational capacity of MIDIBERT and identify its limitations in capturing mode-emotion associations. To address this issue, we propose a Mode-Guided Enhancement (MoGE) strategy that incorporates psychological insights on mode into the model. Specifically, we first conduct a mode augmentation analysis, which reveals that MIDIBERT fails to effectively encode emotion-mode correlations. We then identify the least emotion-relevant layer within MIDIBERT and introduce a Mode-guided Feature-wise linear modulation injection (MoFi) framework to inject explicit mode features, thereby enhancing the model's capability in emotional representation and inference. Extensive experiments on the EMOPIA and VGMIDI datasets demonstrate that our mode injection strategy significantly improves SMER performance, achieving accuracies of 75.2% and 59.1%, respectively. These results validate the effectiveness of mode-guided modeling in symbolic music emotion recognition.",
+  "is_relevant": false,
+  "relevance_score": 1.0,
+  "extracted_keywords": [
+    "symbolic music emotion recognition",
+    "MIDIBERT",
+    "mode-guided enhancement",
+    "tonal structures",
+    "music psychology"
+  ],
+  "one_line_summary": "该论文提出一种基于模式引导增强的策略，通过注入音乐调式特征来改进符号音乐情感识别模型的性能。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:53.757291",
+  "updated_at": "2025-12-23T15:47:53.757306"
+}

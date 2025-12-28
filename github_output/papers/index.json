@@ -1,0 +1,1904 @@
+{
+  "total_papers": 140,
+  "last_updated": "2025-12-28T19:14:44.345802",
+  "papers": [
+    {
+      "id": "2512.02020v2",
+      "title": "EfficientFlow: Efficient Equivariant Flow Policy Learning for Embodied AI",
+      "authors": [
+        "Jianlei Chang",
+        "Ruofeng Mei",
+        "Wei Ke",
+        "Xiangyu Xu"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:59:59Z",
+      "url": "https://arxiv.org/abs/2512.02020v2"
+    },
+    {
+      "id": "2512.19317v1",
+      "title": "SafeMed-R1: Adversarial Reinforcement Learning for Generalizable and Robust Medical Reasoning in Vision-Language Models",
+      "authors": [
+        "A. A. Gde Yogi Pramana, Jason Ray, Anthony Jaya, Michael Wijaya"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19317"
+    },
+    {
+      "id": "2512.01629v2",
+      "title": "SPARK: Sim-ready Part-level Articulated Reconstruction with VLM Knowledge",
+      "authors": [
+        "Yumeng He",
+        "Ying Jiang",
+        "Jiayin Lu",
+        "Yin Yang",
+        "Chenfanfu Jiang"
+      ],
+      "relevance_score": 4.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "2025-12-01T12:51:56Z",
+      "url": "https://arxiv.org/abs/2512.01629v2"
+    },
+    {
+      "id": "2512.18020v1",
+      "title": "Specification and Detection of LLM Code Smells",
+      "authors": [
+        "Brahim Mahmoudi, Zacharie Chenail-Larcher, Naouel Moha, Quentin Stievenert, Florent Avellaneda"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18020"
+    },
+    {
+      "id": "2512.19350v1",
+      "title": "PENDULUM: A Benchmark for Assessing Sycophancy in Multimodal Large Language Models",
+      "authors": [
+        "A. B. M. Ashikur Rahman, Saeed Anwar, Muhammad Usman, Irfan Ahmad, Ajmal Mian"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19350"
+    },
+    {
+      "id": "2512.02002v2",
+      "title": "LLM-Driven Corrective Robot Operation Code Generation with Static Text-Based Simulation",
+      "authors": [
+        "Wenhao Wang",
+        "Yi Rong",
+        "Yanyan Li",
+        "Long Jiao",
+        "Jiawei Yuan"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:57:10Z",
+      "url": "https://arxiv.org/abs/2512.02002v2"
+    },
+    {
+      "id": "2512.01924v1",
+      "title": "Real-World Robot Control by Deep Active Inference With a Temporally Hierarchical World Model",
+      "authors": [
+        "Kentaro Fujii",
+        "Shingo Murata"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T17:41:01Z",
+      "url": "https://arxiv.org/abs/2512.01924v1"
+    },
+    {
+      "id": "2512.17928v1",
+      "title": "Efficient Beamforming Optimization for STAR-RIS-Assisted Communications: A Gradient-Based Meta Learning Approach",
+      "authors": [
+        "Dongdong Yang, Bin Li, Jiguang He, Yicheng Yan, Xiaoyu Zhang, Chongwen Huang"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17928"
+    },
+    {
+      "id": "2512.18256v1",
+      "title": "MSC-180: A Benchmark for Automated Formal Theorem Proving from Mathematical Subject Classification",
+      "authors": [
+        "Sirui Li, Wangyue Lu, Xiaorui Shi, Ke Weng, Haozhe Sun, Minghe Yu, Tiancheng Zhang, Ge Yu, Hengyu Liu, Lun Du"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18256"
+    },
+    {
+      "id": "2512.18202v1",
+      "title": "Sophia: A Persistent Agent Framework of Artificial Life",
+      "authors": [
+        "Mingyang Sun, Feng Hong, Weinan Zhang"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18202"
+    },
+    {
+      "id": "2512.18732v1",
+      "title": "Counterfactual Basis Extension and Representational Geometry: An MDL-Constrained Model of Conceptual Growth",
+      "authors": [
+        "Chainarong Amornbunchornvej"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18732"
+    },
+    {
+      "id": "2512.02017v1",
+      "title": "Visual Sync: Multi-Camera Synchronization via Cross-View Object Motion",
+      "authors": [
+        "Shaowei Liu",
+        "David Yifan Yao",
+        "Saurabh Gupta",
+        "Shenlong Wang"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:59:57Z",
+      "url": "https://arxiv.org/abs/2512.02017v1"
+    },
+    {
+      "id": "2512.19287v1",
+      "title": "Vibe Reasoning: Eliciting Frontier AI Mathematical Capabilities -- A Case Study on IMO 2025 Problem 6",
+      "authors": [
+        "Jiaao Wu, Xian Zhang, Fan Yang, Yinpeng Dong"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19287"
+    },
+    {
+      "id": "2512.18792v1",
+      "title": "The Dead Salmons of AI Interpretability",
+      "authors": [
+        "Maxime M\\'eloux, Giada Dirupo, Fran\\c{c}ois Portet, Maxime Peyrard"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18792"
+    },
+    {
+      "id": "2512.19691v1",
+      "title": "Scalably Enhancing the Clinical Validity of a Task Benchmark with Physician Oversight",
+      "authors": [
+        "Junze Ye, Daniel Tawfik, Alex J. Goodell, Nikhil V. Kotha, Mark K. Buyyounouski, Mohsen Bayati"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19691"
+    },
+    {
+      "id": "2512.19551v1",
+      "title": "Towards Closed-Loop Embodied Empathy Evolution: Probing LLM-Centric Lifelong Empathic Motion Generation in Unseen Scenarios",
+      "authors": [
+        "Jiawen Wang, Jingjing Wang Tianyang Chen, Min Zhang, Guodong Zhou"
+      ],
+      "relevance_score": 4.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19551"
+    },
+    {
+      "id": "2512.01550v1",
+      "title": "NavForesee: A Unified Vision-Language World Model for Hierarchical Planning and Dual-Horizon Navigation Prediction",
+      "authors": [
+        "Fei Liu",
+        "Shichao Xie",
+        "Minghua Luo",
+        "Zedong Chu",
+        "Junjun Hu",
+        "Xiaolong Wu",
+        "Mu Xu"
+      ],
+      "relevance_score": 7.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "2025-12-01T11:24:16Z",
+      "url": "https://arxiv.org/abs/2512.01550v1"
+    },
+    {
+      "id": "2512.18571v1",
+      "title": "ESearch-R1: Learning Cost-Aware MLLM Agents for Interactive Embodied Search via Reinforcement Learning",
+      "authors": [
+        "Weijie Zhou, Xuangtang Xiong, Ye Tian, Lijun Yue, Xinyu Wu, Wei Li, Chaoyang Zhao, Honghui Dong, Ming Tang, Jinqiao Wang, Zhengyou Zhang"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18571"
+    },
+    {
+      "id": "2512.17912v1",
+      "title": "Graph-O1 : Monte Carlo Tree Search with Reinforcement Learning for Text-Attributed Graph Reasoning",
+      "authors": [
+        "Lihui Liu"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17912"
+    },
+    {
+      "id": "2512.19027v1",
+      "title": "Recontextualization Mitigates Specification Gaming without Modifying the Specification",
+      "authors": [
+        "Ariana Azarbal, Victor Gillioz, Vladimir Ivanov, Bryce Woodworth, Jacob Drori, Nevan Wichers, Aram Ebtekar, Alex Cloud, Alexander Matt Turner"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19027"
+    },
+    {
+      "id": "2512.19069v1",
+      "title": "Can abstract concepts from LLM improve SLM performance?",
+      "authors": [
+        "Siddharth Tandon"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19069"
+    },
+    {
+      "id": "2512.19096v1",
+      "title": "Conditioning Accept-Desirability models in the context of AGM-like belief change",
+      "authors": [
+        "Kathelijne Coussement, Gert de Cooman, Keano De Vos"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19096"
+    },
+    {
+      "id": "2512.01946v2",
+      "title": "Guardian: Detecting Robotic Planning and Execution Errors with Vision-Language Models",
+      "authors": [
+        "Paul Pacaud",
+        "Ricardo Garcia",
+        "Shizhe Chen",
+        "Cordelia Schmid"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T17:57:27Z",
+      "url": "https://arxiv.org/abs/2512.01946v2"
+    },
+    {
+      "id": "2512.17969v1",
+      "title": "Convolutional-neural-operator-based transfer learning for solving PDEs",
+      "authors": [
+        "Peng Fan, Guofei Pang"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17969"
+    },
+    {
+      "id": "2512.19210v1",
+      "title": "Observer, Not Player: Simulating Theory of Mind in LLMs through Game Observation",
+      "authors": [
+        "Jerry Wang, Ting Yiu Liu"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19210"
+    },
+    {
+      "id": "2512.18618v1",
+      "title": "Assignment-Routing Optimization: Solvers for Problems Under Constraints",
+      "authors": [
+        "Yuan Qilong, Michal Pavelka"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18618"
+    },
+    {
+      "id": "2512.18956v1",
+      "title": "Training Multimodal Large Reasoning Models Needs Better Thoughts: A Three-Stage Framework for Long Chain-of-Thought Synthesis and Selection",
+      "authors": [
+        "Yizhi Wang, Linan Yue, Min-Ling Zhang"
+      ],
+      "relevance_score": 4.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18956"
+    },
+    {
+      "id": "2512.19526v1",
+      "title": "QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models",
+      "authors": [
+        "Li Puyin, Tiange Xiang, Ella Mao, Shirley Wei, Xinye Chen, Adnan Masood, Li Fei-fei, Ehsan Adeli"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19526"
+    },
+    {
+      "id": "2512.01897v1",
+      "title": "NeuroHJR: Hamilton-Jacobi Reachability-based Obstacle Avoidance in Complex Environments with Physics-Informed Neural Networks",
+      "authors": [
+        "Granthik Halder",
+        "Rudrashis Majumder",
+        "Rakshith M R",
+        "Rahi Shah",
+        "Suresh Sundaram"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T17:18:24Z",
+      "url": "https://arxiv.org/abs/2512.01897v1"
+    },
+    {
+      "id": "2512.18661v1",
+      "title": "ASTIF: Adaptive Semantic-Temporal Integration for Cryptocurrency Price Forecasting",
+      "authors": [
+        "Hafiz Saif Ur Rehman, Ling Liu, Kaleem Ullah Qasim"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18661"
+    },
+    {
+      "id": "2512.19228v1",
+      "title": "Generation of Programmatic Rules for Document Forgery Detection Using Large Language Models",
+      "authors": [
+        "Valentin Schmidberger, Manuel Eberhardinger, Setareh Maghsudi, Johannes Maucher"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19228"
+    },
+    {
+      "id": "2512.01194v1",
+      "title": "RoboLoc: A Benchmark Dataset for Point Place Recognition and Localization in Indoor-Outdoor Integrated Environments",
+      "authors": [
+        "Jaejin Jeon",
+        "Seonghoon Ryoo",
+        "Sang-Duck Lee",
+        "Soomok Lee",
+        "Seungwoo Jeong"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T02:20:14Z",
+      "url": "https://arxiv.org/abs/2512.01194v1"
+    },
+    {
+      "id": "2512.19355v1",
+      "title": "First-Order Representation Languages for Goal-Conditioned RL",
+      "authors": [
+        "Simon St{\\aa}hlberg, Hector Geffner"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19355"
+    },
+    {
+      "id": "2512.18034v1",
+      "title": "Conflict-Driven Clause Learning with VSIDS Heuristics for Discrete Facility Layout",
+      "authors": [
+        "Joshua Gibson, Kapil Dhakal"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18034"
+    },
+    {
+      "id": "2512.01850v1",
+      "title": "Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching",
+      "authors": [
+        "Yue Pan",
+        "Tao Sun",
+        "Liyuan Zhu",
+        "Lucas Nunes",
+        "Iro Armeni",
+        "Jens Behley",
+        "Cyrill Stachniss"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T16:36:51Z",
+      "url": "https://arxiv.org/abs/2512.01850v1"
+    },
+    {
+      "id": "2512.01715v1",
+      "title": "DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models",
+      "authors": [
+        "Wanpeng Zhang",
+        "Ye Wang",
+        "Hao Luo",
+        "Haoqi Yuan",
+        "Yicheng Feng",
+        "Sipeng Zheng",
+        "Qin Jin",
+        "Zongqing Lu"
+      ],
+      "relevance_score": 3.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "2025-12-01T14:21:15Z",
+      "url": "https://arxiv.org/abs/2512.01715v1"
+    },
+    {
+      "id": "2512.02013v1",
+      "title": "ManualVLA: A Unified VLA Model for Chain-of-Thought Manual Generation and Robotic Manipulation",
+      "authors": [
+        "Chenyang Gu",
+        "Jiaming Liu",
+        "Hao Chen",
+        "Runzhong Huang",
+        "Qingpo Wuwu",
+        "Zhuoyang Liu",
+        "Xiaoqi Li",
+        "Ying Li",
+        "Renrui Zhang",
+        "Peng Jia",
+        "Pheng-Ann Heng",
+        "Shanghang Zhang"
+      ],
+      "relevance_score": 6.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:59:50Z",
+      "url": "https://arxiv.org/abs/2512.02013v1"
+    },
+    {
+      "id": "2512.17972v1",
+      "title": "Re-assessing the evidence for mental rotation abilities in children using computational models",
+      "authors": [
+        "Arthur Aubret, Jochen Triesch"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17972"
+    },
+    {
+      "id": "2512.17952v1",
+      "title": "Will AI Trade? A Computational Inversion of the No-Trade Theorem",
+      "authors": [
+        "Hanyu Li, Xiaotie Deng"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17952"
+    },
+    {
+      "id": "2512.18092v1",
+      "title": "Faithful and Stable Neuron Explanations for Trustworthy Mechanistic Interpretability",
+      "authors": [
+        "Ge Yan (Lily), Tuomas Oikarinen (Lily),  Tsui-Wei (Lily),  Weng"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18092"
+    },
+    {
+      "id": "2512.19366v1",
+      "title": "Learning General Policies with Policy Gradient Methods",
+      "authors": [
+        "Simon St{\\aa}hlberg, Blai Bonet, Hector Geffner"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19366"
+    },
+    {
+      "id": "2512.17956v1",
+      "title": "Victor Calibration (VC): Multi-Pass Confidence Calibration and CP4.3 Governance Stress Test under Round-Table Orchestration",
+      "authors": [
+        "Victor Stasiuc, Round Table Collaboration"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17956"
+    },
+    {
+      "id": "2512.01801v3",
+      "title": "GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation",
+      "authors": [
+        "Yunfei Li",
+        "Xiao Ma",
+        "Jiafeng Xu",
+        "Yu Cui",
+        "Zhongren Cui",
+        "Zhigang Han",
+        "Liqun Huang",
+        "Tao Kong",
+        "Yuxiao Liu",
+        "Hao Niu",
+        "Wanli Peng",
+        "Jingchao Qiao",
+        "Zeyu Ren",
+        "Haixin Shi",
+        "Zhi Su",
+        "Jiawen Tian",
+        "Yuyang Xiao",
+        "Shenyu Zhang",
+        "Liwei Zheng",
+        "Hang Li",
+        "Yonghui Wu"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": null,
+      "is_starred": false,
+      "published_date": "2025-12-01T15:33:59Z",
+      "url": "https://arxiv.org/abs/2512.01801v3"
+    },
+    {
+      "id": "2512.18135v1",
+      "title": "Unifying Causal Reinforcement Learning: Survey, Taxonomy, Algorithms and Applications",
+      "authors": [
+        "Cristiano da Costa Cunha, Wei Liu, Tim French, Ajmal Mian"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18135"
+    },
+    {
+      "id": "2512.19107v1",
+      "title": "FC-MIR: A Mobile Screen Awareness Framework for Intent-Aware Recommendation based on Frame-Compressed Multimodal Trajectory Reasoning",
+      "authors": [
+        "Zhe Yang, Xiaoshuang Sheng, Zhengnan Zhang, Jidong Wu, Zexing Wang, Xin He, Shenghua Xu, Guanjing Xiong"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19107"
+    },
+    {
+      "id": "2512.01952v1",
+      "title": "GrndCtrl: Grounding World Models via Self-Supervised Reward Alignment",
+      "authors": [
+        "Haoyang He",
+        "Jay Patrikar",
+        "Dong-Ki Kim",
+        "Max Smith",
+        "Daniel McGann",
+        "Ali-akbar Agha-mohammadi",
+        "Shayegan Omidshafiei",
+        "Sebastian Scherer"
+      ],
+      "relevance_score": 4.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:03:29Z",
+      "url": "https://arxiv.org/abs/2512.01952v1"
+    },
+    {
+      "id": "2512.01668v1",
+      "title": "Dynamic Log-Gaussian Process Control Barrier Function for Safe Robotic Navigation in Dynamic Environments",
+      "authors": [
+        "Xin Yin",
+        "Chenyang Liang",
+        "Yanning Guo",
+        "Jie Mei"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T13:38:43Z",
+      "url": "https://arxiv.org/abs/2512.01668v1"
+    },
+    {
+      "id": "2512.19396v1",
+      "title": "EchoTrail-GUI: Building Actionable Memory for GUI Agents via Critic-Guided Self-Exploration",
+      "authors": [
+        "Runze Li, Yuwen Zhai, Bo Xu, LiWu Xu, Nian Shi, Wei Zhang, Ran Lin, Liang Wang"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19396"
+    },
+    {
+      "id": "2512.01446v1",
+      "title": "$\\mathbf{M^3A}$ Policy: Mutable Material Manipulation Augmentation Policy through Photometric Re-rendering",
+      "authors": [
+        "Jiayi Li",
+        "Yuxuan Hu",
+        "Haoran Geng",
+        "Xiangyu Chen",
+        "Chuhao Zhou",
+        "Ziteng Cui",
+        "Jianfei Yang"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T09:31:10Z",
+      "url": "https://arxiv.org/abs/2512.01446v1"
+    },
+    {
+      "id": "2512.17916v1",
+      "title": "Learning to Prioritize IT Tickets: A Comparative Evaluation of Embedding-based Approaches and Fine-Tuned Transformer Models",
+      "authors": [
+        "Minh Tri L\\^E, Ali Ait-Bachir"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17916"
+    },
+    {
+      "id": "2512.18669v1",
+      "title": "IntelliCode: A Multi-Agent LLM Tutoring System with Centralized Learner Modeling",
+      "authors": [
+        "Jones David, Shreya Ghosh"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18669"
+    },
+    {
+      "id": "2512.19001v1",
+      "title": "ORPR: An OR-Guided Pretrain-then-Reinforce Learning Model for Inventory Management",
+      "authors": [
+        "Lingjie Zhao, Xue Yu, Yongzhi Qi, Hao Hu, Jianshen Zhang, Yingzheng Ma, Shuyu Han, Wei Qi, Zuo-Jun Max Shen"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19001"
+    },
+    {
+      "id": "2512.19349v1",
+      "title": "VIGOR+: Iterative Confounder Generation and Validation via LLM-CEVAE Feedback Loop",
+      "authors": [
+        "JiaWei Zhu, ZiHeng Liu"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19349"
+    },
+    {
+      "id": "2512.01753v1",
+      "title": "AgriLiRa4D: A Multi-Sensor UAV Dataset for Robust SLAM in Challenging Agricultural Fields",
+      "authors": [
+        "Zhihao Zhan",
+        "Yuhang Ming",
+        "Shaobin Li",
+        "Jie Yuan"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T14:56:56Z",
+      "url": "https://arxiv.org/abs/2512.01753v1"
+    },
+    {
+      "id": "2512.18057v1",
+      "title": "FOODER: Real-time Facial Authentication and Expression Recognition",
+      "authors": [
+        "Sabri Mustafa Kahya, Muhammet Sami Yavuz, Boran Hamdi Sivrikaya, Eckehard Steinbach"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18057"
+    },
+    {
+      "id": "2512.17920v1",
+      "title": "Separating Constraint Compliance from Semantic Accuracy: A Novel Benchmark for Evaluating Instruction-Following Under Compression",
+      "authors": [
+        "Rahul Baxi"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17920"
+    },
+    {
+      "id": "2512.17950v1",
+      "title": "Which Coauthor Should I Nominate in My 99 ICLR Submissions? A Mathematical Analysis of the ICLR 2026 Reciprocal Reviewer Nomination Policy",
+      "authors": [
+        "Zhao Song, Song Yue, Jiahao Zhang"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17950"
+    },
+    {
+      "id": "2512.17943v1",
+      "title": "NystagmusNet: Explainable Deep Learning for Photosensitivity Risk Prediction",
+      "authors": [
+        "Karthik Prabhakar"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17943"
+    },
+    {
+      "id": "2512.18004v1",
+      "title": "Seeing Justice Clearly: Handwritten Legal Document Translation with OCR and Vision-Language Models",
+      "authors": [
+        "Shubham Kumar Nigam, Parjanya Aditya Shukla, Noel Shallum, Arnab Bhattacharya"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18004"
+    },
+    {
+      "id": "2512.18094v1",
+      "title": "Rethinking Multi-Agent Intelligence Through the Lens of Small-World Networks",
+      "authors": [
+        "Boxuan Wang, Zhuoyun Li, Xiaowei Huang, Yi Dong"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18094"
+    },
+    {
+      "id": "2512.17970v1",
+      "title": "CodeGEMM: A Codebook-Centric Approach to Efficient GEMM in Quantized LLMs",
+      "authors": [
+        "Gunho Park, Jeongin Bae, Byeongwook Kim, Baeseong park, Jiwon Ryu, Hoseung Kim, Se Jung Kwon, Dongsoo Lee"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17970"
+    },
+    {
+      "id": "2512.18133v1",
+      "title": "Grad: Guided Relation Diffusion Generation for Graph Augmentation in Graph Fraud Detection",
+      "authors": [
+        "Jie Yang, Rui Zhang, Ziyang Cheng, Dawei Cheng, Guang Yang, Bo Wang"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18133"
+    },
+    {
+      "id": "2512.01993v1",
+      "title": "RoaD: Rollouts as Demonstrations for Closed-Loop Supervised Fine-Tuning of Autonomous Driving Policies",
+      "authors": [
+        "Guillermo Garcia-Cobo",
+        "Maximilian Igl",
+        "Peter Karkus",
+        "Zhejun Zhang",
+        "Michael Watson",
+        "Yuxiao Chen",
+        "Boris Ivanovic",
+        "Marco Pavone"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:52:03Z",
+      "url": "https://arxiv.org/abs/2512.01993v1"
+    },
+    {
+      "id": "2512.19458v1",
+      "title": "An Agentic Framework for Autonomous Materials Computation",
+      "authors": [
+        "Zeyu Xia, Jinzhe Ma, Congjie Zheng, Shufei Zhang, Yuqiang Li, Hang Su, P. Hu, Changshui Zhang, Xingao Gong, Wanli Ouyang, Lei Bai, Dongzhan Zhou, Mao Su"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19458"
+    },
+    {
+      "id": "2512.18082v1",
+      "title": "Uncertainty-Gated Region-Level Retrieval for Robust Semantic Segmentation",
+      "authors": [
+        "Shreshth Rajan, Raymond Liu"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18082"
+    },
+    {
+      "id": "2512.17941v1",
+      "title": "Accelerated Digital Twin Learning for Edge AI: A Comparison of FPGA and Mobile GPU",
+      "authors": [
+        "Bin Xu, Ayan Banerjee, Midhat Urooj, Sandeep K. S. Gupta"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17941"
+    },
+    {
+      "id": "2512.19093v1",
+      "title": "Tool-Augmented Hybrid Ensemble Reasoning with Distillation for Bilingual Mathematical Problem Solving",
+      "authors": [
+        "Peiqing Lu, Yuan Zhang, Haoyun Zhang, Jiasen Zheng, Kejian Tong, Wenjun Wu"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19093"
+    },
+    {
+      "id": "2512.17984v1",
+      "title": "A Hybrid Inductive-Transductive Network for Traffic Flow Imputation on Unsampled Locations",
+      "authors": [
+        "Mohammadmahdi Rahimiasl, Ynte Vanderhoydonc, Siegfried Mercelis"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17984"
+    },
+    {
+      "id": "2512.18619v1",
+      "title": "ChronoDreamer: Action-Conditioned World Model as an Online Simulator for Robotic Planning",
+      "authors": [
+        "Zhenhao Zhou, Dan Negrut"
+      ],
+      "relevance_score": 7.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18619"
+    },
+    {
+      "id": "2512.19135v1",
+      "title": "Understanding Chain-of-Thought in Large Language Models via Topological Data Analysis",
+      "authors": [
+        "Chenghao Li, Chaoning Zhang, Yi Lu, Shuxu Chen, Xudong Wang, Jiaquan Zhang, Zhicheng Wang, Zhengxun Jin, Kuien Liu, Sung-Ho Bae, Guoqing Wang, Yang Yang, Hen Tao Shen"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19135"
+    },
+    {
+      "id": "2512.18014v1",
+      "title": "ReGal: A First Look at PPO-based Legal AI for Judgment Prediction and Summarization in India",
+      "authors": [
+        "Shubham Kumar Nigam, Tanuj Tyagi, Siddharth Shukla, Aditya Kumar Guru, Balaramamahanthi Deepak Patnaik, Danush Khanna, Noel Shallum, Kripabandhu Ghosh, Arnab Bhattacharya"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18014"
+    },
+    {
+      "id": "2512.17911v1",
+      "title": "Towards Reasoning-Preserving Unlearning in Multimodal Large Language Models",
+      "authors": [
+        "Hongji Li, Junchi yao, Manjiang Yu, Priyanka Singh, Xue Li, Di Wang, Lijie Hu"
+      ],
+      "relevance_score": 4.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17911"
+    },
+    {
+      "id": "2512.01165v1",
+      "title": "Real-Time On-the-Go Annotation Framework Using YOLO for Automated Dataset Generation",
+      "authors": [
+        "Mohamed Abdallah Salem",
+        "Ahmed Harb Rabia"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T00:54:57Z",
+      "url": "https://arxiv.org/abs/2512.01165v1"
+    },
+    {
+      "id": "2512.17979v1",
+      "title": "Adaptive Agents in Spatial Double-Auction Markets: Modeling the Emergence of Industrial Symbiosis",
+      "authors": [
+        "Matthieu Mastio, Paul Saves, Benoit Gaudou, Nicolas Verstaevel"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17979"
+    },
+    {
+      "id": "2512.01280v1",
+      "title": "Visibility-aware Cooperative Aerial Tracking with Decentralized LiDAR-based Swarms",
+      "authors": [
+        "Longji Yin",
+        "Yunfan Ren",
+        "Fangcheng Zhu",
+        "Liuyu Shi",
+        "Fanze Kong",
+        "Benxu Tang",
+        "Wenyi Liu",
+        "Ximin Lyu",
+        "Fu Zhang"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T04:52:50Z",
+      "url": "https://arxiv.org/abs/2512.01280v1"
+    },
+    {
+      "id": "2512.18829v1",
+      "title": "HARBOR: Holistic Adaptive Risk assessment model for BehaviORal healthcare",
+      "authors": [
+        "Aditya Siddhant"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18829"
+    },
+    {
+      "id": "2512.01809v2",
+      "title": "Much Ado About Noising: Dispelling the Myths of Generative Robotic Control",
+      "authors": [
+        "Chaoyi Pan",
+        "Giri Anantharaman",
+        "Nai-Chieh Huang",
+        "Claire Jin",
+        "Daniel Pfrommer",
+        "Chenyang Yuan",
+        "Frank Permenter",
+        "Guannan Qu",
+        "Nicholas Boffi",
+        "Guanya Shi",
+        "Max Simchowitz"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T15:44:53Z",
+      "url": "https://arxiv.org/abs/2512.01809v2"
+    },
+    {
+      "id": "2512.18131v1",
+      "title": "Holistic Evaluation of State-of-the-Art LLMs for Code Generation",
+      "authors": [
+        "Le Zhang, Suresh Kothari"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18131"
+    },
+    {
+      "id": "2512.17983v1",
+      "title": "Parameter-Efficient Fine-Tuning for HAR: Integrating LoRA and QLoRA into Transformer Models",
+      "authors": [
+        "Irina Seregina, Philippe Lalanda, German Vega"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17983"
+    },
+    {
+      "id": "2512.18564v1",
+      "title": "Vox Deorum: A Hybrid LLM Architecture for 4X / Grand Strategy Game AI -- Lessons from Civilization V",
+      "authors": [
+        "John Chen, Sihan Cheng, Can Gurkan, Ryan Lay, Moez Salahuddin"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18564"
+    },
+    {
+      "id": "2512.17917v1",
+      "title": "KVReviver: Reversible KV Cache Compression with Sketch-Based Token Reconstruction",
+      "authors": [
+        "Aomufei Yuan, Zhiming Wang, Ruijie Miao, Dayu Wang, Yuxuan Tian, Zihan Wang, Yebo Peng, Yuhan Wu, Bairen Yi, Xin Liu, Tong Yang"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17917"
+    },
+    {
+      "id": "2512.01381v1",
+      "title": "Accelerating Probabilistic Response-Time Analysis: Revised Critical Instant and Optimized Convolution",
+      "authors": [
+        "Hiroto Takahashi",
+        "Atsushi Yano",
+        "Takuya Azumi"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T07:54:48Z",
+      "url": "https://arxiv.org/abs/2512.01381v1"
+    },
+    {
+      "id": "2512.18311v1",
+      "title": "Monitoring Monitorability",
+      "authors": [
+        "Melody Y. Guan, Miles Wang, Micah Carroll, Zehao Dou, Annie Y. Wei, Marcus Williams, Benjamin Arnav, Joost Huizinga, Ian Kivlichan, Mia Glaese, Jakub Pachocki, Bowen Baker"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18311"
+    },
+    {
+      "id": "2512.17929v1",
+      "title": "Reinforcement Learning for Monetary Policy Under Macroeconomic Uncertainty: Analyzing Tabular and Function Approximation Methods",
+      "authors": [
+        "Sheryl Chen, Tony Wang, Kyle Feinstein"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17929"
+    },
+    {
+      "id": "2512.18160v1",
+      "title": "Propose, Solve, Verify: Self-Play Through Formal Verification",
+      "authors": [
+        "Alex Wilf, Pranjal Aggarwal, Bryan Parno, Daniel Fried, Louis-Philippe Morency, Paul Pu Liang, Sean Welleck"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18160"
+    },
+    {
+      "id": "2512.18077v1",
+      "title": "Characterising Behavioural Families and Dynamics of Promotional Twitter Bots via Sequence-Based Modelling",
+      "authors": [
+        "Ohoud Alzahrani, Russell Beale, Robert J. Hendley"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18077"
+    },
+    {
+      "id": "2512.18605v1",
+      "title": "Reflective Confidence: Correcting Reasoning Flaws via Online Self-Correction",
+      "authors": [
+        "Qinglin Zeng, Jing Yang, Keze Wang"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18605"
+    },
+    {
+      "id": "2512.01246v1",
+      "title": "COMET: A Dual Swashplate Autonomous Coaxial Bi-copter AAV with High-Maneuverability and Long-Endurance",
+      "authors": [
+        "Shuai Wang",
+        "Xiaoming Tang",
+        "Junning Liang",
+        "Haowen Zheng",
+        "Biyu Ye",
+        "Zhaofeng Liu",
+        "Fei Gao",
+        "Ximin Lyu"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T03:45:00Z",
+      "url": "https://arxiv.org/abs/2512.01246v1"
+    },
+    {
+      "id": "2512.01608v1",
+      "title": "Integrated YOLOP Perception and Lyapunov-based Control for Autonomous Mobile Robot Navigation on Track",
+      "authors": [
+        "Mo Chen"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T12:29:02Z",
+      "url": "https://arxiv.org/abs/2512.01608v1"
+    },
+    {
+      "id": "2512.18450v1",
+      "title": "Agent-Based Output Drift Detection for Breast Cancer Response Prediction in a Multisite Clinical Decision Support System",
+      "authors": [
+        "Xavier Rafael-Palou, Jose Munuera, Ana Jimenez-Pastor, Richard Osuala, Karim Lekadir, Oliver Diaz"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18450"
+    },
+    {
+      "id": "2512.18908v1",
+      "title": "Multimodal Bayesian Network for Robust Assessment of Casualties in Autonomous Triage",
+      "authors": [
+        "Szymon Rusiecki, Cecilia G. Morales, Kimberly Elenberg, Leonard Weiss, Artur Dubrawski"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18908"
+    },
+    {
+      "id": "2512.01336v1",
+      "title": "Discovering Self-Protective Falling Policy for Humanoid Robot via Deep Reinforcement Learning",
+      "authors": [
+        "Diyuan Shi",
+        "Shangke Lyu",
+        "Donglin Wang"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T06:53:54Z",
+      "url": "https://arxiv.org/abs/2512.01336v1"
+    },
+    {
+      "id": "2512.17913v1",
+      "title": "Byzantine Fault-Tolerant Multi-Agent System for Healthcare: A Gossip Protocol Approach to Secure Medical Message Propagation",
+      "authors": [
+        "Nihir Chadderwala"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17913"
+    },
+    {
+      "id": "2512.18489v1",
+      "title": "Large Language Models as Discounted Bayesian Filters",
+      "authors": [
+        "Jensen Zhang, Jing Yang, Keze Wang"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18489"
+    },
+    {
+      "id": "2512.18483v1",
+      "title": "Insider Threat Detection Using GCN and Bi-LSTM with Explicit and Implicit Graph Representations",
+      "authors": [
+        "Rahul Yumlembam, Biju Issac, Seibu Mary Jacob, Longzhi Yang, Deepa Krishnan"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18483"
+    },
+    {
+      "id": "2512.19557v1",
+      "title": "Augmenting Intelligence: A Hybrid Framework for Scalable and Stable Explanations",
+      "authors": [
+        "Lawrence Krukrubo, Julius Odede, Olawande Olusegun"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19557"
+    },
+    {
+      "id": "2512.18755v1",
+      "title": "MEEA: Mere Exposure Effect-Driven Confrontational Optimization for LLM Jailbreaking",
+      "authors": [
+        "Jianyi Zhang, Shizhao Liu, Ziyin Zhou, Zhen Li"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18755"
+    },
+    {
+      "id": "2512.01856v2",
+      "title": "Is Image-based Object Pose Estimation Ready to Support Grasping?",
+      "authors": [
+        "Eric C. Joyce",
+        "Qianwen Zhao",
+        "Nathaniel Burgdorfer",
+        "Long Wang",
+        "Philippos Mordohai"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T16:39:39Z",
+      "url": "https://arxiv.org/abs/2512.01856v2"
+    },
+    {
+      "id": "2512.01188v1",
+      "title": "Real-World Reinforcement Learning of Active Perception Behaviors",
+      "authors": [
+        "Edward S. Hu",
+        "Jie Wang",
+        "Xingfang Yuan",
+        "Fiona Luo",
+        "Muyao Li",
+        "Gaspard Lambrechts",
+        "Oleh Rybkin",
+        "Dinesh Jayaraman"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T02:05:20Z",
+      "url": "https://arxiv.org/abs/2512.01188v1"
+    },
+    {
+      "id": "2512.18901v1",
+      "title": "Gabliteration: Adaptive Multi-Directional Neural Weight Modification for Selective Behavioral Alteration in Large Language Models",
+      "authors": [
+        "G\\\"okdeniz G\\\"ulmez"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18901"
+    },
+    {
+      "id": "2512.18177v1",
+      "title": "NEURO-GUARD: Neuro-Symbolic Generalization and Unbiased Adaptive Routing for Diagnostics -- Explainable Medical AI",
+      "authors": [
+        "Midhat Urooj, Ayan Banerjee, Sandeep Gupta"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18177"
+    },
+    {
+      "id": "2512.18080v1",
+      "title": "From Prompt to Product: A Human-Centered Benchmark of Agentic App Generation Systems",
+      "authors": [
+        "Marcos Ortiz, Justin Hill, Collin Overbay, Ingrida Semenec, Frederic Sauve-Hoover, Jim Schwoebel, Joel Shor"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18080"
+    },
+    {
+      "id": "2512.19084v1",
+      "title": "$\\gamma(3,4)$ `Attention' in Cognitive Agents: Ontology-Free Knowledge Representations With Promise Theoretic Semantics",
+      "authors": [
+        "Mark Burgess"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19084"
+    },
+    {
+      "id": "2512.18857v1",
+      "title": "CORE: Concept-Oriented Reinforcement for Bridging the Definition-Application Gap in Mathematical Reasoning",
+      "authors": [
+        "Zijun Gao, Zhikun Xu, Xiao Ye, Ben Zhou"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18857"
+    },
+    {
+      "id": "2512.18665v1",
+      "title": "Automatic Adaptation to Concept Complexity and Subjective Natural Concepts: A Cognitive Model based on Chunking",
+      "authors": [
+        "Dmitry Bennett, Fernand Gobet"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18665"
+    },
+    {
+      "id": "2512.18190v1",
+      "title": "External Hippocampus: Topological Cognitive Maps for Guiding Large Language Model Reasoning",
+      "authors": [
+        "Jian Yan"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18190"
+    },
+    {
+      "id": "2512.18189v1",
+      "title": "NL2CA: Auto-formalizing Cognitive Decision-Making from Natural Language Using an Unsupervised CriticNL2LTL Framework",
+      "authors": [
+        "Zihao Deng, Yijia Li, Renrui Zhang, Peijun Ye"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18189"
+    },
+    {
+      "id": "2512.02270v1",
+      "title": "Property-Guided Cyber-Physical Reduction and Surrogation for Safety Analysis in Robotic Vehicles",
+      "authors": [
+        "Nazmus Shakib Sayom",
+        "Luis Garcia"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T23:27:22Z",
+      "url": "https://arxiv.org/abs/2512.02270v1"
+    },
+    {
+      "id": "2512.17946v1",
+      "title": "Let the Model Learn to Feel: Mode-Guided Tonality Injection for Symbolic Music Emotion Recognition",
+      "authors": [
+        "Haiying Xia, Zhongyi Huang, Yumei Tan, Shuxiang Song"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17946"
+    },
+    {
+      "id": "2512.19234v1",
+      "title": "DeliveryBench: Can Agents Earn Profit in Real World?",
+      "authors": [
+        "Lingjun Mao, Jiawei Ren, Kun Zhou, Jixuan Chen, Ziqiao Ma, Lianhui Qin"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19234"
+    },
+    {
+      "id": "2512.01773v1",
+      "title": "IGen: Scalable Data Generation for Robot Learning from Open-World Images",
+      "authors": [
+        "Chenghao Gu",
+        "Haolan Kang",
+        "Junchao Lin",
+        "Jinghe Wang",
+        "Duo Wu",
+        "Shuzhao Xie",
+        "Fanding Huang",
+        "Junchen Ge",
+        "Ziyang Gong",
+        "Letian Li",
+        "Hongying Zheng",
+        "Changwei Lv",
+        "Zhi Wang"
+      ],
+      "relevance_score": 3.0,
+      "is_relevant": true,
+      "is_starred": false,
+      "published_date": "2025-12-01T15:15:04Z",
+      "url": "https://arxiv.org/abs/2512.01773v1"
+    },
+    {
+      "id": "2512.17910v1",
+      "title": "Efficient Multi-Adapter LLM Serving via Cross-Model KV-Cache Reuse with Activated LoRA",
+      "authors": [
+        "Allison Li, Kristjan Greenewald, Thomas Parnell, Navid Azizan"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17910"
+    },
+    {
+      "id": "2512.02018v1",
+      "title": "Data-Centric Visual Development for Self-Driving Labs",
+      "authors": [
+        "Anbang Liu",
+        "Guanzhong Hu",
+        "Jiayi Wang",
+        "Ping Guo",
+        "Han Liu"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:59:57Z",
+      "url": "https://arxiv.org/abs/2512.02018v1"
+    },
+    {
+      "id": "2512.05996v1",
+      "title": "FishDetector-R1: Unified MLLM-Based Framework with Reinforcement Fine-Tuning for Weakly Supervised Fish Detection, Segmentation, and Counting",
+      "authors": [
+        "Yi Liu",
+        "Jingyu Song",
+        "Vedanth Kallakuri",
+        "Katherine A. Skinner"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T06:23:56Z",
+      "url": "https://arxiv.org/abs/2512.05996v1"
+    },
+    {
+      "id": "2512.19155v1",
+      "title": "Can We Test Consciousness Theories on AI? Ablations, Markers, and Robustness",
+      "authors": [
+        "Yin Jun Phua"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19155"
+    },
+    {
+      "id": "2512.11824v1",
+      "title": "ReGlove: A Soft Pneumatic Glove for Activities of Daily Living Assistance via Wrist-Mounted Vision",
+      "authors": [
+        "Rosh Ho",
+        "Jian Zhang"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T01:06:59Z",
+      "url": "https://arxiv.org/abs/2512.11824v1"
+    },
+    {
+      "id": "2512.01598v1",
+      "title": "A Cross-Embodiment Gripper Benchmark for Rigid-Object Manipulation in Aerial and Industrial Robotics",
+      "authors": [
+        "Marek Vagas",
+        "Martin Varga",
+        "Jaroslav Romancik",
+        "Ondrej Majercak",
+        "Alejandro Suarez",
+        "Anibal Ollero",
+        "Bram Vanderborght",
+        "Ivan Virgala"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T12:17:56Z",
+      "url": "https://arxiv.org/abs/2512.01598v1"
+    },
+    {
+      "id": "2512.18412v1",
+      "title": "Few-Shot Learning of a Graph-Based Neural Network Model Without Backpropagation",
+      "authors": [
+        "Mykyta Lapin, Kostiantyn Bokhan, Yurii Parzhyn"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18412"
+    },
+    {
+      "id": "2512.18265v1",
+      "title": "Intelligent Human-Machine Partnership for Manufacturing: Enhancing Warehouse Planning through Simulation-Driven Knowledge Graphs and LLM Collaboration",
+      "authors": [
+        "Himabindu Thogaru, Saisubramaniam Gopalakrishnan, Zishan Ahmad, Anirudh Deodhar"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18265"
+    },
+    {
+      "id": "2512.18043v1",
+      "title": "Securing Agentic AI Systems -- A Multilayer Security Framework",
+      "authors": [
+        "Sunil Arora, John Hastings"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18043"
+    },
+    {
+      "id": "2512.18126v1",
+      "title": "Efficient Mixture-of-Agents Serving via Tree-Structured Routing, Adaptive Pruning, and Dependency-Aware Prefill-Decode Overlap",
+      "authors": [
+        "Zijun Wang, Yijiahao Qi, Hanqiu Chen, Zishen Wan, Gongjin Sun, Dongyang Li, Shuyi Pei, Cong Hao"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18126"
+    },
+    {
+      "id": "2512.18709v1",
+      "title": "KeenKT: Knowledge Mastery-State Disambiguation for Knowledge Tracing",
+      "authors": [
+        "Zhifei Li, Lifan Chen, Jiali Yi, Xiaoju Hou, Yue Zhao, Wenxin Huang, Miao Zhang, Kui Xiao, Bing Yang"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18709"
+    },
+    {
+      "id": "2512.01996v1",
+      "title": "Learning Sim-to-Real Humanoid Locomotion in 15 Minutes",
+      "authors": [
+        "Younggyo Seo",
+        "Carmelo Sferrazza",
+        "Juyue Chen",
+        "Guanya Shi",
+        "Rocky Duan",
+        "Pieter Abbeel"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:55:17Z",
+      "url": "https://arxiv.org/abs/2512.01996v1"
+    },
+    {
+      "id": "2512.18947v1",
+      "title": "Clustering-based Transfer Learning for Dynamic Multimodal MultiObjective Evolutionary Algorithm",
+      "authors": [
+        "Li Yan, Bolun Liu, Chao Li, Jing Liang, Kunjie Yu, Caitong Yue, Xuzhao Chai, Boyang Qu"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18947"
+    },
+    {
+      "id": "2512.01801v2",
+      "title": "GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation",
+      "authors": [
+        "Yunfei Li",
+        "Xiao Ma",
+        "Jiafeng Xu",
+        "Yu Cui",
+        "Zhongren Cui",
+        "Zhigang Han",
+        "Liqun Huang",
+        "Tao Kong",
+        "Yuxiao Liu",
+        "Hao Niu",
+        "Wanli Peng",
+        "Jingchao Qiao",
+        "Zeyu Ren",
+        "Haixin Shi",
+        "Zhi Su",
+        "Jiawen Tian",
+        "Yuyang Xiao",
+        "Shenyu Zhang",
+        "Liwei Zheng",
+        "Hang Li",
+        "Yonghui Wu"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T15:33:59Z",
+      "url": "https://arxiv.org/abs/2512.01801v2"
+    },
+    {
+      "id": "2512.17958v1",
+      "title": "Real-Time Human-Robot Interaction Intent Detection Using RGB-based Pose and Emotion Cues with Cross-Camera Model Generalization",
+      "authors": [
+        "Farida Mohsen, Ali Safa"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17958"
+    },
+    {
+      "id": "2512.17989v1",
+      "title": "The Subject of Emergent Misalignment in Superintelligence: An Anthropological, Cognitive Neuropsychological, Machine-Learning, and Ontological Perspective",
+      "authors": [
+        "Muhammad Osama Imran, Roshni Lulla, Rodney Sappington"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17989"
+    },
+    {
+      "id": "2512.18687v1",
+      "title": "Social Comparison without Explicit Inference of Others' Reward Values: A Constructive Approach Using a Probabilistic Generative Model",
+      "authors": [
+        "Yosuke Taniuchi, Chie Hieida, Atsushi Noritake, Kazushi Ikeda, Masaki Isoda"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18687"
+    },
+    {
+      "id": "2512.19081v1",
+      "title": "Population-Evolve: a Parallel Sampling and Evolutionary Method for LLM Math Reasoning",
+      "authors": [
+        "Yanzhi Zhang, Yitong Duan, Zhaoxi Zhang, Jiyan He, Shuxin Zheng"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19081"
+    },
+    {
+      "id": "2512.19299v1",
+      "title": "Helios: A Foundational Language Model for Smart Energy Knowledge Reasoning and Application",
+      "authors": [
+        "Haoyu Jiang, Fanjie Zeng, Boan Qu, Xiaojie Lin, Wei Zhong"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.19299"
+    },
+    {
+      "id": "2512.01218v1",
+      "title": "How do trout regulate patterns of muscle contraction to optimize propulsive efficiency during steady swimming",
+      "authors": [
+        "Tao Li",
+        "Chunze Zhang",
+        "Weiwei Yao",
+        "Junzhao He",
+        "Ji Hou",
+        "Qin Zhou",
+        "Lu Zhang"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T02:57:02Z",
+      "url": "https://arxiv.org/abs/2512.01218v1"
+    },
+    {
+      "id": "2512.17968v1",
+      "title": "A Critical Review of Monte Carlo Algorithms Balancing Performance and Probabilistic Accuracy with AI Augmented Framework",
+      "authors": [
+        "Ravi Prasad"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17968"
+    },
+    {
+      "id": "2512.01554v1",
+      "title": "L2M-Calib: One-key Calibration Method for LiDAR and Multiple Magnetic Sensors",
+      "authors": [
+        "Qiyang Lyu",
+        "Wei Wang",
+        "Zhenyu Wu",
+        "Hongming Shen",
+        "Huiqin Zhou",
+        "Danwei Wang"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T11:26:00Z",
+      "url": "https://arxiv.org/abs/2512.01554v1"
+    },
+    {
+      "id": "2512.17923v1",
+      "title": "Inferring Latent Market Forces: Evaluating LLM Detection of Gamma Exposure Patterns via Obfuscation Testing",
+      "authors": [
+        "Christopher Regan, Ying Xie"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17923"
+    },
+    {
+      "id": "2512.01987v2",
+      "title": "Forecasting in Offline Reinforcement Learning for Non-stationary Environments",
+      "authors": [
+        "Suzan Ece Ada",
+        "Georg Martius",
+        "Emre Ugur",
+        "Erhan Oztop"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:45:05Z",
+      "url": "https://arxiv.org/abs/2512.01987v2"
+    },
+    {
+      "id": "2512.02011v1",
+      "title": "Learning Dexterous Manipulation Skills from Imperfect Simulations",
+      "authors": [
+        "Elvis Hsieh",
+        "Wen-Han Hsieh",
+        "Yen-Jen Wang",
+        "Toru Lin",
+        "Jitendra Malik",
+        "Koushil Sreenath",
+        "Haozhi Qi"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T18:59:45Z",
+      "url": "https://arxiv.org/abs/2512.02011v1"
+    },
+    {
+      "id": "2512.01358v1",
+      "title": "Modality-Augmented Fine-Tuning of Foundation Robot Policies for Cross-Embodiment Manipulation on GR1 and G1",
+      "authors": [
+        "Junsung Park",
+        "Hogun Kee",
+        "Songhwai Oh"
+      ],
+      "relevance_score": 1.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "2025-12-01T07:13:38Z",
+      "url": "https://arxiv.org/abs/2512.01358v1"
+    },
+    {
+      "id": "2512.17953v1",
+      "title": "Seeing Beyond the Scene: Analyzing and Mitigating Background Bias in Action Recognition",
+      "authors": [
+        "Ellie Zhou, Jihoon Chung, Olga Russakovsky"
+      ],
+      "relevance_score": 2.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17953"
+    },
+    {
+      "id": "2512.18031v1",
+      "title": "A Dataset and Benchmarks for Atrial Fibrillation Detection from Electrocardiograms of Intensive Care Unit Patients",
+      "authors": [
+        "Sarah Nassar, Nooshin Maghsoodi, Sophia Mannina, Shamel Addas, Stephanie Sibley, Gabor Fichtinger, David Pichora, David Maslove, Purang Abolmaesumi, Parvin Mousavi"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.18031"
+    },
+    {
+      "id": "2512.17934v1",
+      "title": "Comparative Evaluation of Explainable Machine Learning Versus Linear Regression for Predicting County-Level Lung Cancer Mortality Rate in the United States",
+      "authors": [
+        "Soheil Hashtarkhani, Brianna M. White, Benyamin Hoseini, David L. Schwartz, Arash Shaban-Nejad"
+      ],
+      "relevance_score": 0.0,
+      "is_relevant": false,
+      "is_starred": false,
+      "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+      "url": "https://arxiv.org/abs/2512.17934"
+    }
+  ]
+}

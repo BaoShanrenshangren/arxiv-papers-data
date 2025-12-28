@@ -1,0 +1,31 @@
+{
+  "id": "2512.17983v1",
+  "title": "Parameter-Efficient Fine-Tuning for HAR: Integrating LoRA and QLoRA into Transformer Models",
+  "authors": [
+    "Irina Seregina, Philippe Lalanda, German Vega"
+  ],
+  "abstract": "arXiv:2512.17983v1 Announce Type: cross \nAbstract: Human Activity Recognition is a foundational task in pervasive computing. While recent advances in self-supervised learning and transformer-based architectures have significantly improved HAR performance, adapting large pretrained models to new domains remains a practical challenge due to limited computational resources on target devices. This papers investigates parameter-efficient fine-tuning techniques, specifically Low-Rank Adaptation (LoRA) and Quantized LoRA, as scalable alternatives to full model fine-tuning for HAR. We propose an adaptation framework built upon a Masked Autoencoder backbone and evaluate its performance under a Leave-One-Dataset-Out validation protocol across five open HAR datasets. Our experiments demonstrate that both LoRA and QLoRA can match the recognition performance of full fine-tuning while significantly reducing the number of trainable parameters, memory usage, and training time. Further analyses reveal that LoRA maintains robust performance even under limited supervision and that the adapter rank provides a controllable trade-off between accuracy and efficiency. QLoRA extends these benefits by reducing the memory footprint of frozen weights through quantization, with minimal impact on classification quality.",
+  "url": "https://arxiv.org/abs/2512.17983",
+  "html_url": "https://arxiv.org/html/2512.17983v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.17983v1 Announce Type: cross \nAbstract: Human Activity Recognition is a foundational task in pervasive computing. While recent advances in self-supervised learning and transformer-based architectures have significantly improved HAR performance, adapting large pretrained models to new domains remains a practical challenge due to limited computational resources on target devices. This papers investigates parameter-efficient fine-tuning techniques, specifically Low-Rank Adaptation (LoRA) and Quantized LoRA, as scalable alternatives to full model fine-tuning for HAR. We propose an adaptation framework built upon a Masked Autoencoder backbone and evaluate its performance under a Leave-One-Dataset-Out validation protocol across five open HAR datasets. Our experiments demonstrate that both LoRA and QLoRA can match the recognition performance of full fine-tuning while significantly reducing the number of trainable parameters, memory usage, and training time. Further analyses reveal that LoRA maintains robust performance even under limited supervision and that the adapter rank provides a controllable trade-off between accuracy and efficiency. QLoRA extends these benefits by reducing the memory footprint of frozen weights through quantization, with minimal impact on classification quality.",
+  "is_relevant": false,
+  "relevance_score": 1.0,
+  "extracted_keywords": [
+    "parameter-efficient fine-tuning",
+    "LoRA",
+    "QLoRA",
+    "transformer models",
+    "Human Activity Recognition",
+    "Masked Autoencoder",
+    "computational efficiency"
+  ],
+  "one_line_summary": "该论文研究在人类活动识别任务中，使用LoRA和QLoRA进行参数高效微调，以提升计算效率，与视频扩散或多模态生成等关键词无关。",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:57.372927",
+  "updated_at": "2025-12-23T15:47:57.372936"
+}

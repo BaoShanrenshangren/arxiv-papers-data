@@ -1,0 +1,25 @@
+{
+  "id": "2512.17943v1",
+  "title": "NystagmusNet: Explainable Deep Learning for Photosensitivity Risk Prediction",
+  "authors": [
+    "Karthik Prabhakar"
+  ],
+  "abstract": "arXiv:2512.17943v1 Announce Type: cross \nAbstract: Nystagmus patients with photosensitivity face significant daily challenges due to involuntary eye movements exacerbated by environmental brightness conditions. Current assistive solutions are limited to symptomatic treatments without predictive personalization. This paper proposes NystagmusNet, an AI-driven system that predicts high-risk visual environments and recommends real-time visual adaptations. Using a dual-branch convolutional neural network trained on synthetic and augmented datasets, the system estimates a photosensitivity risk score based on environmental brightness and eye movement variance. The model achieves 75% validation accuracy on synthetic data. Explainability techniques including SHAP and GradCAM are integrated to highlight environmental risk zones, improving clinical trust and model interpretability. The system includes a rule-based recommendation engine for adaptive filter suggestions. Future directions include deployment via smart glasses and reinforcement learning for personalized recommendations.",
+  "url": "https://arxiv.org/abs/2512.17943",
+  "html_url": "https://arxiv.org/html/2512.17943v1",
+  "html_content": "",
+  "preview_text": "arXiv:2512.17943v1 Announce Type: cross \nAbstract: Nystagmus patients with photosensitivity face significant daily challenges due to involuntary eye movements exacerbated by environmental brightness conditions. Current assistive solutions are limited to symptomatic treatments without predictive personalization. This paper proposes NystagmusNet, an AI-driven system that predicts high-risk visual environments and recommends real-time visual adaptations. Using a dual-branch convolutional neural network trained on synthetic and augmented datasets, the system estimates a photosensitivity risk score based on environmental brightness and eye movement variance. The model achieves 75% validation accuracy on synthetic data. Explainability techniques including SHAP and GradCAM are integrated to highlight environmental risk zones, improving clinical trust and model interpretability. The system includes a rule-based recommendation engine for adaptive filter suggestions. Future directions include deployment via smart glasses and reinforcement learning for personalized recommendations.",
+  "is_relevant": false,
+  "relevance_score": 1.0,
+  "extracted_keywords": [
+    "❌ clinical"
+  ],
+  "one_line_summary": "论文包含负面关键词「clinical」，自动标记为不相关",
+  "detailed_summary": "",
+  "qa_pairs": [],
+  "is_hidden": false,
+  "is_starred": false,
+  "published_date": "Tue, 23 Dec 2025 00:00:00 -0500",
+  "created_at": "2025-12-23T15:47:53.388895",
+  "updated_at": "2025-12-23T15:47:53.388907"
+}
